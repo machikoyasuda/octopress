@@ -1,56 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title><![CDATA[From the desk of Machiko Yasuda]]></title>
-	<link href="http://pacific-escarpment-7101.herokuapp.com//atom.xml" rel="self"/>
-	<link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-	<updated>2013-06-16T00:33:57-07:00</updated>
-	<id>http://pacific-escarpment-7101.herokuapp.com//</id>
-	<author>
-		<name><![CDATA[Machiko Yasuda]]></name>
-		
-	</author>
-	<generator uri="http://octopress.org/">Octopress</generator>
+  <title><![CDATA[Category: books | From the desk of Machiko Yasuda]]></title>
+  <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/books/atom.xml" rel="self"/>
+  <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
+  <updated>2013-06-16T00:33:57-07:00</updated>
+  <id>http://pacific-escarpment-7101.herokuapp.com//</id>
+  <author>
+    <name><![CDATA[Machiko Yasuda]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Ignorant humility]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/15/on-learning/"/>
-		<updated>2013-06-15T06:38:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/15/on-learning</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>More gems from Ellen Ullman&rsquo;s &ldquo;Close to the Machine&rdquo;:</p>
+  
+  <entry>
+    <title type="html"><![CDATA[Ignorant humility]]></title>
+    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/15/on-learning/"/>
+    <updated>2013-06-15T06:38:00-07:00</updated>
+    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/15/on-learning</id>
+    <content type="html"><![CDATA[<p>More gems from Ellen Ullman&rsquo;s &ldquo;Close to the Machine&rdquo;:</p>
 
 <blockquote><p>&ldquo;And I&rsquo;ll have to muddle through without certainties. Without my father&rsquo;s belief that the machinery of capital, if you worked hard and log, was benign in the long run, so benign you could even own a piece of it. Without my generation&rsquo;s macho leftism, which made us think we could smash the machine and build a better one&hellip; But all that can wait.</p>
 
-<p>&ldquo;I&rsquo;ve managed to stay in a perpetual state of learning only by maintaining what I think of as a posture of ignorant humility. This humility is as mandatory as arrogance&hellip; There is only one way to deal with this humiliation: bow you head, let go of the idea that you know anything, and ask politely of this new machine &#8220;How do you wish to be operated?&rdquo; If you accept your ignorance, once you really admit to yourself that everything you know is now useless, the new machine will be good to you and tell you: here is how to operate me.&#8221;</p>
+<p>&ldquo;I&rsquo;ve managed to stay in a perpetual state of learning only by maintaining what I think of as a posture of ignorant humility. This humility is as mandatory as arrogance&hellip; There is only one way to deal with this humiliation: bow you head, let go of the idea that you know anything, and ask politely of this new machine "How do you wish to be operated?&rdquo; If you accept your ignorance, once you really admit to yourself that everything you know is now useless, the new machine will be good to you and tell you: here is how to operate me."</p>
 
 <p>&ldquo;The corollary to constant change is ignorance. This is not often talked about: we computer experts barely know what we&rsquo;re doing. We&rsquo;re good at fussing and figuring out. We function well in a sea of unknowns. Our experience has only prepared us to deal with confusion. A programmer who denies this is probably lying, or else densely unaware of himself.&rdquo;</p></blockquote>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Start at 0]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/06/start-at-zero/"/>
-		<updated>2013-06-06T16:53:16-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/06/start-at-zero</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<blockquote><p>For now, I&rsquo;m just going to enjoy where I am: beginning of a new contract, the rocket-takeoff learning curve, the exquisite terror of it, the straight-up ride against gravity into a trajectory not yet calculated.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Start at 0]]></title>
+    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/06/start-at-zero/"/>
+    <updated>2013-06-06T16:53:16-07:00</updated>
+    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/06/start-at-zero</id>
+    <content type="html"><![CDATA[<blockquote><p>For now, I&rsquo;m just going to enjoy where I am: beginning of a new contract, the rocket-takeoff learning curve, the exquisite terror of it, the straight-up ride against gravity into a trajectory not yet calculated.</p>
 
 <p>The next time I drive down to the company, a fog hangs lead-gray over the bay. It lingers over all the East Bay cities. Then, where the freeway turns inland, the fog lifts and thins, and the sky turns a sheer glare-white. I race past the trucks, the hills shine deep green in the clear light, and for that moment, I&rsquo;m just where I&rsquo;m supposed to be: driving a fast car to a place I don&rsquo;t know yet, where anything can happen.&ldquo; — Ellen Ullman, <a href="www.robinsloan.com/summer-reading/and-programming/">Close to the Machine</a></p></blockquote>
 
@@ -66,18 +49,18 @@
 
 <p>If I learned anything at all, it was how to learn. Just start. Repetition, enthusiasm, curiosity. Don&rsquo;t do it alone. Learn something, teach something. Find a good book (or two). Read some history. But most importantly, drop all expectations and anxiety and just start.</p>
 
-<div>
+<p><div>
   <pre><code class='ruby'>def print_hello(name)
-  puts &quot;Hello, #{name}&quot;
+  puts &amp;ldquo;Hello, #{name}&amp;rdquo;
 end
-print_hello('World')
-#=&gt; prints 'Hello, world.'</code></pre>
+print_hello(&amp;lsquo;World&amp;rsquo;)&lt;/p&gt;
+
+&lt;h1&gt;=&gt; prints &amp;lsquo;Hello, world.&amp;rsquo;&lt;/h1&gt;
+
+&lt;p&gt;</code></pre>
 </div>
-
-
-
-]]>
-		</content>
-	</entry>
-	
+</p>
+]]></content>
+  </entry>
+  
 </feed>

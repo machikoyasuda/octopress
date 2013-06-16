@@ -1,12 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/06/start-at-zero/</loc>
+        <lastmod>2013-06-16T00:28:37-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/15/on-learning/</loc>
+        <lastmod>2013-06-16T00:29:08-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://pacific-escarpment-7101.herokuapp.com//blog/archives/</loc>
-        <lastmod>2013-06-15T22:39:52-07:00</lastmod>
+        <lastmod>2013-06-16T00:29:08-07:00</lastmod>
     </url>
     <url>
         <loc>http://pacific-escarpment-7101.herokuapp.com//</loc>
-        <lastmod>2013-06-15T22:39:52-07:00</lastmod>
+        <lastmod>2013-06-16T00:29:08-07:00</lastmod>
     </url>
     <url>
         <loc>http://pacific-escarpment-7101.herokuapp.com//robots.txt</loc>

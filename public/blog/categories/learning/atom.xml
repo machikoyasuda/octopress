@@ -4,7 +4,7 @@
   <title><![CDATA[Category: learning | From the desk of Machiko Yasuda]]></title>
   <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/learning/atom.xml" rel="self"/>
   <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-  <updated>2013-06-16T00:33:57-07:00</updated>
+  <updated>2013-06-17T09:23:48-07:00</updated>
   <id>http://pacific-escarpment-7101.herokuapp.com//</id>
   <author>
     <name><![CDATA[Machiko Yasuda]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[What I've done so far]]></title>
+    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/17/on-learning+copy/"/>
+    <updated>2013-06-17T02:21:00-07:00</updated>
+    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/17/on-learning copy</id>
+    <content type="html"><![CDATA[<p>Start from the beginning:</p>
+
+<ul>
+<li>[Learn Command Line the Hard Way] (<a href="http://cli.learncodethehardway.org/book/">http://cli.learncodethehardway.org/book/</a>)</li>
+<li>Codecademy: Web Fundamentals</li>
+<li>Code School: HTML5, CSS3, Responsive Design, Sass, Try Ruby, Try Git</li>
+<li>Learn Ruby the Hard Way, Zed Shaw</li>
+<li>Learn to Program, Chris Pine</li>
+<li>Codecademy: Ruby, Using APIs with Ruby</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ignorant humility]]></title>
@@ -49,17 +68,15 @@
 
 <p>If I learned anything at all, it was how to learn. Just start. Repetition, enthusiasm, curiosity. Don&rsquo;t do it alone. Learn something, teach something. Find a good book (or two). Read some history. But most importantly, drop all expectations and anxiety and just start.</p>
 
-<p><div>
-  <pre><code class='ruby'>def print_hello(name)
-  puts &amp;ldquo;Hello, #{name}&amp;rdquo;
-end
-print_hello(&amp;lsquo;World&amp;rsquo;)&lt;/p&gt;
+<p><div class="highlight"><pre><code class="ruby"><span class="k">def</span> <span class="nf">print_hello</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="no">Hello</span><span class="p">,</span> <span class="c1">#{name}&amp;rdquo;</span>
+<span class="k">end</span>
+<span class="n">print_hello</span><span class="p">(</span><span class="o">&amp;</span><span class="n">lsquo</span><span class="p">;</span><span class="no">World</span><span class="o">&amp;</span><span class="n">rsquo</span><span class="p">;)</span><span class="o">&lt;</span><span class="sr">/p&gt;</span>
 
-&lt;h1&gt;=&gt; prints &amp;lsquo;Hello, world.&amp;rsquo;&lt;/h1&gt;
+<span class="sr">&lt;h1&gt;=&gt; prints &amp;lsquo;Hello, world.&amp;rsquo;&lt;/</span><span class="n">h1</span><span class="o">&gt;</span>
 
-&lt;p&gt;</code></pre>
-</div>
-</p>
+<span class="o">&lt;</span><span class="nb">p</span><span class="o">&gt;</span>
+</code></pre></div></p>
 ]]></content>
   </entry>
   

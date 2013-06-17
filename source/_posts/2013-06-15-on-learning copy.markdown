@@ -6,9 +6,10 @@ categories: learning
 ---
 Start from the beginning:
 
-- [Learn Command Line the Hard Way] (http://cli.learncodethehardway.org/book/)
+- Learn Command Line the Hard Way
 - Codecademy: Web Fundamentals
 - Code School: HTML5, CSS3, Responsive Design, Sass, Try Ruby, Try Git
 - Learn Ruby the Hard Way, Zed Shaw
 - Learn to Program, Chris Pine
 - Codecademy: Ruby, Using APIs with Ruby
+- Ruby Koans

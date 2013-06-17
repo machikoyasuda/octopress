@@ -4,7 +4,7 @@
   <title><![CDATA[Category: learning | From the desk of Machiko Yasuda]]></title>
   <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/learning/atom.xml" rel="self"/>
   <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-  <updated>2013-06-17T09:23:48-07:00</updated>
+  <updated>2013-06-17T09:30:42-07:00</updated>
   <id>http://pacific-escarpment-7101.herokuapp.com//</id>
   <author>
     <name><![CDATA[Machiko Yasuda]]></name>
@@ -21,12 +21,13 @@
     <content type="html"><![CDATA[<p>Start from the beginning:</p>
 
 <ul>
-<li>[Learn Command Line the Hard Way] (<a href="http://cli.learncodethehardway.org/book/">http://cli.learncodethehardway.org/book/</a>)</li>
+<li>Learn Command Line the Hard Way</li>
 <li>Codecademy: Web Fundamentals</li>
 <li>Code School: HTML5, CSS3, Responsive Design, Sass, Try Ruby, Try Git</li>
 <li>Learn Ruby the Hard Way, Zed Shaw</li>
 <li>Learn to Program, Chris Pine</li>
 <li>Codecademy: Ruby, Using APIs with Ruby</li>
+<li>Ruby Koans</li>
 </ul>
 
 ]]></content>

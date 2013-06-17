@@ -4,7 +4,7 @@
 	<title><![CDATA[From the desk of Machiko Yasuda]]></title>
 	<link href="http://pacific-escarpment-7101.herokuapp.com//atom.xml" rel="self"/>
 	<link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-	<updated>2013-06-17T09:35:55-07:00</updated>
+	<updated>2013-06-17T14:08:46-07:00</updated>
 	<id>http://pacific-escarpment-7101.herokuapp.com//</id>
 	<author>
 		<name><![CDATA[Machiko Yasuda]]></name>
@@ -12,6 +12,30 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[day one]]></title>
+		
+		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/17/day-one/"/>
+		<updated>2013-06-17T14:03:00-07:00</updated>
+		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/17/day-one</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>&ldquo;One of the biggest problems on software development teams in communication.&rdquo;</p>
+
+<p>Try to tackle learning by problem-first, project-first, rather than requirements-first.</p>
+
+<p>The first part of a project is coming up with the problem, planning the data structure and sketching a wireframe. The data structure tree and the wireframes are mostly a communication tool — you can bring it up to colleagues and bosses and start talking about specifics.</p>
+
+<p>In the same way we&rsquo;d plan how to schedule our project time, we can schedule our learning as well.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "day one"
+date: 2013-06-17 14:03
+comments: true
+categories: class reflection	
+---
+"One of the biggest problems on software development teams in communication."
+
+Try to tackle learning by problem-first, project-first, rather than requirements-first. 
+
+The first part of a project is coming up with the problem, planning the data structure and sketching a wireframe. The data structure tree and the wireframes are mostly a communication tool — you can bring it up to colleagues and bosses and start talking about specifics. 
+
+In the same way we'd plan how to schedule our project time, we can schedule our learning as well. 

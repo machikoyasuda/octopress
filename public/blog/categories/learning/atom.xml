@@ -4,7 +4,7 @@
   <title><![CDATA[Category: learning | From the desk of Machiko Yasuda]]></title>
   <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/learning/atom.xml" rel="self"/>
   <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-  <updated>2013-06-17T14:08:46-07:00</updated>
+  <updated>2013-06-18T23:26:14-07:00</updated>
   <id>http://pacific-escarpment-7101.herokuapp.com//</id>
   <author>
     <name><![CDATA[Machiko Yasuda]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[day two: on reading v. writing]]></title>
+    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/18/day-two/"/>
+    <updated>2013-06-18T23:18:00-07:00</updated>
+    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/18/day-two</id>
+    <content type="html"><![CDATA[<p>The learning process for a creative act like coding or writing includes more steps than say, an skill like bicycling in traffic or up hills.</p>
+
+<p>There&rsquo;s still the same amount of memorization, then understanding what you&rsquo;ve memorized (like how cranks work and why the shifters are on which side and which way they move.) As far as performance, bicycling is muscle memory and strength and practice. Performance is all practice. There&rsquo;s some unquestioned notion that the more you practice, the more your skill will increase.</p>
+
+<p>I&rsquo;m not sure if that&rsquo;s the same with coding. For one thing, after you come to the point of understaning, you can start to read code and understand it.</p>
+
+<p>But when confronted with a blank page, or even a detailed wireframe, it can be difficult to pull it all from your memory and put it back together into something coherent.</p>
+
+<p>Sure, some things will be repeated in every project &mdash; that might be part memory, part convention. But the true creativity must come from somewhere else.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[What I've done so far]]></title>

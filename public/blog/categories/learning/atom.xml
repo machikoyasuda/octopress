@@ -4,7 +4,7 @@
   <title><![CDATA[Category: learning | From the desk of Machiko Yasuda]]></title>
   <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/learning/atom.xml" rel="self"/>
   <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-  <updated>2013-06-18T23:26:14-07:00</updated>
+  <updated>2013-06-21T09:10:48-07:00</updated>
   <id>http://pacific-escarpment-7101.herokuapp.com//</id>
   <author>
     <name><![CDATA[Machiko Yasuda]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[week one]]></title>
+    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/21/week-1/"/>
+    <updated>2013-06-21T08:52:00-07:00</updated>
+    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/21/week-1</id>
+    <content type="html"><![CDATA[<p>Learning how to type, mouse, click efficiently is all part of learning how to make your computer do stuff. It&rsquo;s part of communicating with the machine itself. Like constantly practicing and training your bow hand and fingering on the violin, you aim for precision and speed with keyboard shortcuts and typing. I&rsquo;m liking Notational Velocity (for notes), iTerm2 (Command Line) and a combination of Vim and Sublime Text 2. This week I learned about SizeUp, which I&rsquo;ve been using to divide my 13 inch MacBook Air screen into tiles of apps. Especially for those with smaller laptops and no extra monitors &ndash; highly recommend trying SizeUp.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[day two: on reading v. writing]]></title>

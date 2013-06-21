@@ -1,0 +1,9 @@
+---
+layout: post
+title: "week one"
+date: 2013-06-21 08:52
+comments: true
+categories: learning 
+---
+
+Learning how to type, mouse, click efficiently is all part of learning how to make your computer do stuff. It's part of communicating with the machine itself. Like constantly practicing and training your bow hand and fingering on the violin, you aim for precision and speed with keyboard shortcuts and typing. I'm liking Notational Velocity (for notes), iTerm2 (Command Line) and a combination of Vim and Sublime Text 2. This week I learned about SizeUp, which I've been using to divide my 13 inch MacBook Air screen into tiles of apps. Especially for those with smaller laptops and no extra monitors - highly recommend trying SizeUp.

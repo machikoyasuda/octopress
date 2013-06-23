@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "rough draft: idea"
+title: "are computers bicycles for the mind? or cars?"
 date: 2013-06-23 15:28
 comments: true
 categories: learning, idea

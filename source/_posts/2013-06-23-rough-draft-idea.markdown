@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "are computers bicycles for the mind? or cars?"
-date: 2013-06-23 15:28
+date: "2013-06-23 15:28"
 comments: true
-categories: learning, idea
+categories: "learning, idea"
+published: true
 ---
 
 In this technology-driven world, how do we humans interact with the machines around us? In my mind, there are at least two categories: (1) letting the machine control you, (2) you controlling the machine.
@@ -24,15 +25,14 @@ After many experiments and parts swapped, the bike fits on me better and is more
 
 Every time I change out parts, your body will notice how it has to change its actions to better fit the bike. I don't have to brake as early or as hard, not that my levers are right by my hands. I've aligned the derailleur so many times, I know exactly how many gears I have and where I need to set the shifter to get it there. The bike does not control me; I control, shift, twist and change it to my needs. I don't have to look down at my gears -- I can feel where it is. If there's ever a derailleur hangup, I can hear it and usually, fix it with my hands. As long as I keep the chain lubed and tires pumped, my body can move over 15 miles per hour, no sweat. 
 
-"And that’s what a computer is to me. What a computer is to me is it’s the most remarkable tool that we’ve ever come up with, and it’s the equivalent of a bicycle for our minds." -- Steve Jobs, 1990
+> "And that’s what a computer is to me. What a computer is to me is it’s the most remarkable tool that we’ve ever come up with, and it’s the equivalent of a bicycle for our minds." -- Steve Jobs, 1990
  
 But have you ever watched someone bike up a hill in his largest (hardest) gear? It's painful to watch. He might not understand why he's in a gear that's too hard to pedal, and might not make it up at all. You cannot let the bike control you. 
 
 To me, this is the key between merely consuming the machine and controlling it. 
 
-If a bicycle is a computer for our minds, we must learn how the machine talks, listens and understands the commands we give it. We have to learn how to get it into the right gear to go up hills or down. Fix flats and bugs. Keep the chain and battery in top shape. 
+_If a bicycle is a computer for our minds, we must learn how the machine talks, listens and understands the commands we give it._We have to learn how to get it into the right gear to go up hills or down. Fix flats and bugs. Keep the chain and battery in top shape. 
 
 This is what is missing from our education today. When I hear a school district is buying everyone laptops, iPads, the new technological phenomenon the skeptic in me thinks about how we're just teaching our children to follow the corporation and consume, consume, consume. Buy more apps. Nag our parents to buy more TV shows or games. Yet we aren't teaching the most crucial thing: how to make apps and games, how to open up the iPad and learn to speak its language and make the iPad to things for us.
 
-In my 6th grade driver's ed, I learned how to drive and how to consume more gas. I didn't learn how to fix flats or even really how cars worked. Looks like our schools may be headed towards teaching how to buy apps, change your typeface on your PowerPoint, take photos with PhotoBooth and Instagram -- but will they teach how to make apps and talk to the machine? 
-
+In my 6th grade driver's ed, I learned how to drive and how to consume more gas. I didn't learn how to fix flats or even really how cars worked. Looks like our schools may be headed towards teaching how to buy apps, change your typeface on your PowerPoint, take photos with PhotoBooth and Instagram -- but will they teach how to make apps and talk to the machine?

@@ -5,6 +5,7 @@ date: 2013-07-25 23:03
 comments: true
 categories: quote
 ---
+A collection of quotes I've heard lately and I have now have been playing in my mind, on endless repeat:
 
 > "Be resilient to failure. It's like wearing a bulletproof vest."
 > "Shit is easier. I make it myself."

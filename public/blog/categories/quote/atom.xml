@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: quote | From the desk of Machiko Yasuda]]></title>
+  <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/quote/atom.xml" rel="self"/>
+  <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
+  <updated>2013-07-25T23:10:02-07:00</updated>
+  <id>http://pacific-escarpment-7101.herokuapp.com//</id>
+  <author>
+    <name><![CDATA[Machiko Yasuda]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Overheard, the greatest hits]]></title>
+    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/07/25/greatest-hits-in-quotes/"/>
+    <updated>2013-07-25T23:03:00-07:00</updated>
+    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/07/25/greatest-hits-in-quotes</id>
+    <content type="html"><![CDATA[<blockquote><p>&ldquo;Be resilient to failure. It&rsquo;s like wearing a bulletproof vest.&rdquo;
+&ldquo;Shit is easier. I make it myself.&rdquo;
+&ldquo;Keep learning fun — you&rsquo;ll have more dopamine in your system and your memory will skyrocket.&rdquo;
+&ldquo;Write, even if you don&rsquo;t publish. You will learn from it&rdquo;
+On side projects for learning: &ldquo;It doesn&rsquo;t matter if someone else did it.&rdquo;
+&ldquo;Everyone here is free to be wrong.&rdquo;
+&ldquo;Trying fails, awareness cures.&rdquo;
+&ldquo;Don&rsquo;t warehouse knowledge.&rdquo;
+&ldquo;If design is the how, art direction is the why, front-end is the what and back-end is the factory. Digital is the norm&rdquo;</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>

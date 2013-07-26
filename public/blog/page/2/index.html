@@ -1,0 +1,154 @@
+
+<!doctype html>
+<!-- START OF _layouts/default.html -->
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<meta content="" name="description">
+		<meta content="From the desk of Machiko Yasuda" name="author">
+		
+		<title>From the desk of Machiko Yasuda</title>
+		
+		<!-- Styles -->
+		<link href="/stylesheets/main.css" rel="stylesheet">
+		
+		<!-- Google webfonts -->
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
+		
+		<!-- jQuery and plugins -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="/js/jquery.zclip.min.js"></script>
+		
+		<!-- Syntax highlighter -->
+		<link href="/stylesheets/prettify-hemisu.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="/js/prettify.js"></script>
+		
+		<!--<link href="http://feeds.feedburner.com/turkeltaub" rel="alternate" title="From the desk of Machiko Yasuda" type="application/rss+xml" />-->
+		
+	</head>
+	<body onload="prettyPrint()">
+	
+		<div class="wrap">
+	
+			<header>
+				<div class="title">From the desk of Machiko Yasuda</div>
+				
+				<div class="navi">
+					<ul>
+						<li><a href="/">Blog</a></li>
+						<li><a href="/blog/archives">Archives</a></li>
+					<ul>
+				</div> <!-- // .navi -->
+			</header>
+		
+				<!-- START OF index.html -->
+
+	
+		
+		<!-- START OF _includes/article.html -->
+<article>
+	<header>
+		<h1><a href="/blog/2011/12/31/two-thousand-and-heaven/">Two-thousand-and-heaven</a></h1>
+		<time>31 December 2011</time>
+	</header>
+		<div class="content">
+			<p>On the last day of the year, I found myself at the barre. I had hurried down the 405, pushing the speed limit yet again (though no tickets, thankfully), arrived to the calm but crowded studio.</p>
+
+<p><em>&ldquo;Make a goal for this hour. A tiny one. Or a big one. Anything. Visualize it in your mind.&rdquo;</em></p>
+
+<p>I’m struggling to relevé. My left leg is already in the air, in arabesque. You only know you’re in the right position when it hurts. Inhale. Plié. Exhale.</p>
+
+<p><em>&ldquo;If you’re not pushing yourself out of the comfort zone — it’s not exercise.&rdquo;</em></p>
+
+<p>Twenty more. Then the right left. Thirty more.</p>
+
+<p>I’m in a small classroom with twenty, thirty women on Sawtelle and Le Grange, between the YMCA and the 405. I don&rsquo;t know anyone here. Maybe that&rsquo;s a good thing. I’m standing on one leg, on the balls of my foot, making the smallest movements, again and again.</p>
+
+<p><em>&ldquo;When we work outside our comfort zone, then we can change. We change.&rdquo;</em></p>
+
+<p>My mind is somewhere between ignoring all pain and monitoring every muscle. It’s not in tomorrow or yesterday, or three hours from now or tonight’s plans. Just here and now and me.</p>
+
+<p>This is not my comfort zone.</p>
+
+<p>Neither is moving to a small farm town where I know no one, living in an apartment without internet, shooting tape on deadline. Neither is climbing fifty feet into the air, biking on Pacific Coast Highway. And so many things. And I hope to stay here, always out of my comfort zone.</p>
+
+		</div>
+	<footer>
+		
+
+
+		
+
+
+
+  
+		
+			Tagged under
+		
+    <a class='category' href='/blog/categories/learning/'>learning</a>
+	
+
+
+	
+	
+	</footer>
+	
+</article>
+<!-- END OF _includes/article.html -->
+
+	
+	
+<div class="pagination">
+	
+	
+	<span class="total">2 of 2</span>
+	
+	
+		<a class="newer" href="/">Newer</a>
+	
+</div>
+<!-- END OF index.html -->
+
+		
+			<footer>
+				Copyright &copy; 2013
+
+	Machiko Yasuda
+
+
+			</footer>
+			
+		</div> <!-- // .wrap -->
+	</body>
+	<script>
+		$(document).ready(function() {
+			// Make images center
+			$('p:has(img)').css('text-align', 'center');
+			
+			// Add the image's title attribute as a caption
+			$('p:has(img)').append(function () {
+				return '<div class="caption">' + $('img', this).attr('title') + '</div>';
+			});
+			
+			// Prettify code
+			$('code').addClass('prettyprint');
+			$('pre code').addClass('linenums');
+			
+			// Copy to clipboard with button
+			$('pre:has(code)').prepend(function(){
+				return '<div class="clip-btn">copy to clipboard</div>';
+			});
+			$('.clip-btn').zclip({
+				path:'/js/ZeroClipboard.swf',
+				copy: $(this).next('code').text(),
+				afterCopy: function(){
+					$(this).replaceWith('<div class="clip-btn">copied!');
+					}
+			});
+		});
+	</script>
+</html>
+<!-- END OF _layouts/default.html -->

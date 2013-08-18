@@ -1,0 +1,19 @@
+---
+layout: post
+title: "new habit"
+date: 2013-08-17 20:33
+comments: true
+categories: development, life
+---
+
+```
+git commit -m "Add a new blog post on commits."
+```
+
+I have a strange, short-term memory these days. Memories will come back to me like vivid movie scenes, but if you asked me what I did seven days ago — I might come up blank. Maybe it's all the learning and working. 
+
+What's been changing my week so far though, has been the simple act of committing each minor project accomplishment as a git commit. 
+
+Version Control on git is not just for easier collaborating and sharing work, I've realized. I can look back on my commits from a month or two months back and re-read some jQuery I wrote to refresh my brain on syntax and methods. Or I can go back and see what I've done in the past week. 
+
+Projects are daunting. Starting at zero and trying to get to the finish line in one long leap is a daunting leap to make. Instead of fretting over getting it perfect the first time, I've been celebrating each tiny little commit. Because it's those little steps in between that will get me there. 

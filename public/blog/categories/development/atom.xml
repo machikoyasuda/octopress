@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: development, | From the desk of Machiko Yasuda]]></title>
+  <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/development/atom.xml" rel="self"/>
+  <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
+  <updated>2013-08-17T20:48:47-07:00</updated>
+  <id>http://pacific-escarpment-7101.herokuapp.com//</id>
+  <author>
+    <name><![CDATA[Machiko Yasuda]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[new habit]]></title>
+    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/17/new-habit/"/>
+    <updated>2013-08-17T20:33:00-07:00</updated>
+    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/17/new-habit</id>
+    <content type="html"><![CDATA[<p><code>
+git commit -m "Add a new blog post on commits."
+</code></p>
+
+<p>I have a strange, short-term memory these days. Memories will come back to me like vivid movie scenes, but if you asked me what I did seven days ago — I might come up blank. Maybe it&rsquo;s all the learning and working.</p>
+
+<p>What&rsquo;s been changing my week so far though, has been the simple act of committing each minor project accomplishment as a git commit.</p>
+
+<p>Version Control on git is not just for easier collaborating and sharing work, I&rsquo;ve realized. I can look back on my commits from a month or two months back and re-read some jQuery I wrote to refresh my brain on syntax and methods. Or I can go back and see what I&rsquo;ve done in the past week.</p>
+
+<p>Projects are daunting. Starting at zero and trying to get to the finish line in one long leap is a daunting leap to make. Instead of fretting over getting it perfect the first time, I&rsquo;ve been celebrating each tiny little commit. Because it&rsquo;s those little steps in between that will get me there.</p>
+]]></content>
+  </entry>
+  
+</feed>

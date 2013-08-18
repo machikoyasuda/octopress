@@ -4,7 +4,7 @@
 	<title><![CDATA[From the desk of Machiko Yasuda]]></title>
 	<link href="http://pacific-escarpment-7101.herokuapp.com//atom.xml" rel="self"/>
 	<link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-	<updated>2013-07-25T23:17:28-07:00</updated>
+	<updated>2013-08-17T20:48:47-07:00</updated>
 	<id>http://pacific-escarpment-7101.herokuapp.com//</id>
 	<author>
 		<name><![CDATA[Machiko Yasuda]]></name>
@@ -12,6 +12,75 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[new habit]]></title>
+		
+		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/17/new-habit/"/>
+		<updated>2013-08-17T20:33:00-07:00</updated>
+		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/17/new-habit</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>git commit -m "Add a new blog post on commits."</span></code></pre></td></tr></table></div></figure>
+
+
+<p>I have a strange, short-term memory these days. Memories will come back to me like vivid movie scenes, but if you asked me what I did seven days ago — I might come up blank. Maybe it&rsquo;s all the learning and working.</p>
+
+<p>What&rsquo;s been changing my week so far though, has been the simple act of committing each minor project accomplishment as a git commit.</p>
+
+<p>Version Control on git is not just for easier collaborating and sharing work, I&rsquo;ve realized. I can look back on my commits from a month or two months back and re-read some jQuery I wrote to refresh my brain on syntax and methods. Or I can go back and see what I&rsquo;ve done in the past week.</p>
+
+<p>Projects are daunting. Starting at zero and trying to get to the finish line in one long leap is a daunting leap to make. Instead of fretting over getting it perfect the first time, I&rsquo;ve been celebrating each tiny little commit. Because it&rsquo;s those little steps in between that will get me there.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Things that can happen, revisited]]></title>
+		
+		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/07/28/things-that-can-happen-revisited/"/>
+		<updated>2013-07-28T10:51:00-07:00</updated>
+		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/07/28/things-that-can-happen-revisited</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<ol>
+<li>Silently disco dance at the corner of Main and Temple</li>
+<li>Pillow fight strangers at Pershing Square</li>
+<li>Travel by Big Blue Bus, Angel&rsquo;s Flight, Gold Line, my own car</li>
+<li>Overlook the typical 110 jam, bike down 7th Street Bridge</li>
+<li>Play dodgeball on the street</li>
+<li>Walk on the sidewalk, get cut off by people on stilts</li>
+<li>Eat on top of a double-decker food truck</li>
+<li>NOSAJ THING. (Sit next to FlyLo)</li>
+<li>J.ROCC. V.J.</li>
+<li>Run into Nathaniel Ayers and bass on a sunny Sunday morning in front of Disney Hall</li>
+<li>Ice skate at Pershing Square, witness child skating prodigy</li>
+<li>Drive very badly, on the wrong side of the street, over railroad tracks, running out of gas</li>
+<li>Run into a lady who talked to me on the bus once, ate dim sum with her on Chinese New Year</li>
+<li>Watch Gustavo Dudamel conduct the L.A. Phil, only to hurt his neck during the first movement</li>
+<li>Watch Damien Rice play at the Orpheum. He wore a luchador mask, a birthday gift from Glen Hansard.</li>
+<li>Club with metal detectors. Enough said.</li>
+<li>Watch museum patrons jump into a pool. An interactive sculptural art exhibit of course.</li>
+<li>Run into a friend on the crosswalk. Say happy birthday!</li>
+<li>Cook food in a real professional kitchen; feel like I&rsquo;m on a reality cooking competition show; feed people; get fed with love.</li>
+<li>Bike into a television commercial set.</li>
+<li>Sit inside a real-life hand-made robot.</li>
+</ol>
+
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		

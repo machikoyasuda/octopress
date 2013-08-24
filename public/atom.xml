@@ -4,7 +4,7 @@
 	<title><![CDATA[From the desk of Machiko Yasuda]]></title>
 	<link href="http://pacific-escarpment-7101.herokuapp.com//atom.xml" rel="self"/>
 	<link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-	<updated>2013-08-17T20:48:47-07:00</updated>
+	<updated>2013-08-23T17:29:51-07:00</updated>
 	<id>http://pacific-escarpment-7101.herokuapp.com//</id>
 	<author>
 		<name><![CDATA[Machiko Yasuda]]></name>
@@ -12,6 +12,70 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Log 0]]></title>
+		
+		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/23/log-0/"/>
+		<updated>2013-08-23T10:41:00-07:00</updated>
+		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/23/log-0</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Inspired by JZ and Vyki&rsquo;s <a href="http://dysania.github.io/blog/">Summer of Code Captain&rsquo;s Logs</a>, I&rsquo;ve decided I should organize my project progress, thoughts and homework every day. And what a good chance to practice writing and editing (in VIM and Markdown, no less.) There will be as little bikeshed-painting, yak-shaving as possible! Yesterday JZ and Vyki presented the lessons they&rsquo;ve learned so far from diving into open source coding. One of the Pivotal Labs developers also talked about their dedication to being enabling and empowering by being transparent, constantly shipping and iterating and sharing best practices. Although I&rsquo;m not working on this project as a pair, I want to keep myself accountable by writing a &ldquo;stand-up&rdquo; every day.</p>
+
+<h2>What I did today:</h2>
+
+<ul>
+<li>Finish writing user story process.</li>
+<li>Finish writing preliminary milestones. Put it all on <a href="https://github.com/machikoyasuda/angular-checklist">GitHub</a></li>
+<li>Finish writing user stories into Pivotal Tracker &ndash; haven&rsquo;t written all specific tasks yet.</li>
+<li>Finish first wireframe and start a working prototype in HTML/CSS.</li>
+<li>Start using iOS Simulator to see how prototype renders in iPhone.</li>
+<li>Start thinking about my development environment, testing frameworks, things like that.</li>
+</ul>
+
+
+<h2>What I am curious about and Googling:</h2>
+
+<p>I&rsquo;ll post questions I&rsquo;ve been thinking about and what I&rsquo;ve Googled and read about it.</p>
+
+<ul>
+<li>Front-end: Can I use Sass or LESS with Angular? What about Twitter Bootstrap? What kind of responsive grid do I want? (Yes on the first two questions).</li>
+<li>Testing: What testing frameworks can I use with Jasmine? (You can use Cucumber.js).</li>
+<li>Mobile-first design: What user experience considerations should I be thinking about? Mouse-overs, hovers won&rsquo;t really work. The checkbox will have to be well-designed and sized to fit the finger. Each item row will have to have enough height to be readable, clickable, editable. I have to take in consideration the keyboard that pops in and out. Typography and colors will matter even more. I&rsquo;ll have to immediately test how it looks and feels when the mobile keyboard pops up and takes up most of the page.</li>
+<li>I learned it all from this series of blog posts on <a href="http://blog.artlogic.com/2013/05/02/ive-been-doing-it-wrong-part-1-of-3/">Angular</a> <a href="http://blog.artlogic.com/2013/05/06/angularjs-best-practices-ive-been-doing-it-wrong-part-2-of-3/">best</a> <a href="http://blog.artlogic.com/2013/05/08/angularjs-best-practices-ive-been-doing-it-wrong-part-3-of-3/">practices</a>.</li>
+</ul>
+
+
+<h2>What&rsquo;s next:</h2>
+
+<ul>
+<li>Start Sass or LESS with mobile viewports.</li>
+<li>Start Jasmine testing soon.</li>
+<li>Deploy as soon as I can, so I can run a real test on an iPhone.</li>
+</ul>
+
+
+<h2>Practice of the day:</h2>
+
+<p>I&rsquo;m going to tackle a programming problem every day. Here are some exercises I&rsquo;ve been trying and liking:</p>
+
+<ul>
+<li>Exercism.io (JavaScript and Ruby)</li>
+<li>Ruby Warrior</li>
+<li>Ruby Koans</li>
+<li>JavaScript Koans</li>
+<li>Finally finish Learn Ruby the Hard Way</li>
+</ul>
+
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		

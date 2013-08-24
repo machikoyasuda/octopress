@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Log 0"
+date: 2013-08-23 10:41
+comments: true
+categories: angular
+---
+
+Inspired by JZ and Vyki's [Summer of Code Captain's Logs](http://dysania.github.io/blog/), I've decided I should organize my project progress, thoughts and homework every day. And what a good chance to practice writing and editing (in VIM and Markdown, no less.) There will be as little bikeshed-painting, yak-shaving as possible! Yesterday JZ and Vyki presented the lessons they've learned so far from diving into open source coding. One of the Pivotal Labs developers also talked about their dedication to being enabling and empowering by being transparent, constantly shipping and iterating and sharing best practices. Although I'm not working on this project as a pair, I want to keep myself accountable by writing a "stand-up" every day.
+
+## What I did today:
+
++ Finish writing user story process.
++ Finish writing preliminary milestones. Put it all on [GitHub](https://github.com/machikoyasuda/angular-checklist)
++ Finish writing user stories into Pivotal Tracker - haven't written all specific tasks yet.
++ Finish first wireframe and start a working prototype in HTML/CSS.
++ Start using iOS Simulator to see how prototype renders in iPhone. 
++ Start thinking about my development environment, testing frameworks, things like that.
+ 
+## What I am curious about and Googling:
+
+I'll post questions I've been thinking about and what I've Googled and read about it.
+
++ Front-end: Can I use Sass or LESS with Angular? What about Twitter Bootstrap? What kind of responsive grid do I want? (Yes on the first two questions).
++ Testing: What testing frameworks can I use with Jasmine? (You can use Cucumber.js).
++ Mobile-first design: What user experience considerations should I be thinking about? Mouse-overs, hovers won't really work. The checkbox will have to be well-designed and sized to fit the finger. Each item row will have to have enough height to be readable, clickable, editable. I have to take in consideration the keyboard that pops in and out. Typography and colors will matter even more. I'll have to immediately test how it looks and feels when the mobile keyboard pops up and takes up most of the page. 
++ I learned it all from this series of blog posts on [Angular](http://blog.artlogic.com/2013/05/02/ive-been-doing-it-wrong-part-1-of-3/) [best](http://blog.artlogic.com/2013/05/06/angularjs-best-practices-ive-been-doing-it-wrong-part-2-of-3/) [practices](http://blog.artlogic.com/2013/05/08/angularjs-best-practices-ive-been-doing-it-wrong-part-3-of-3/). 
+
+## What's next:
++ Start Sass or LESS with mobile viewports.
++ Start Jasmine testing soon.
++ Deploy as soon as I can, so I can run a real test on an iPhone.
+
+## Practice of the day:
+
+I'm going to tackle a programming problem every day. Here are some exercises I've been trying and liking:
+
++ Exercism.io (JavaScript and Ruby)
++ Ruby Warrior 
++ Ruby Koans
++ JavaScript Koans
++ Finally finish Learn Ruby the Hard Way
+

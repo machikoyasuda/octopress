@@ -4,7 +4,7 @@
 	<title><![CDATA[From the desk of Machiko Yasuda]]></title>
 	<link href="http://pacific-escarpment-7101.herokuapp.com//atom.xml" rel="self"/>
 	<link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-	<updated>2013-08-23T17:29:51-07:00</updated>
+	<updated>2013-08-26T17:38:52-07:00</updated>
 	<id>http://pacific-escarpment-7101.herokuapp.com//</id>
 	<author>
 		<name><![CDATA[Machiko Yasuda]]></name>
@@ -12,6 +12,56 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[day one - configuring]]></title>
+		
+		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/26/day-one-configuring/"/>
+		<updated>2013-08-26T11:16:00-07:00</updated>
+		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/26/day-one-configuring</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<h2>Today:</h2>
+
+<ul>
+<li>Start CloudBees account with a basic Angular.JS build from Angular-Seed</li>
+<li>It took a really long time.</li>
+<li>Learned a little bit about ng-controller and ng-model, filters and directives.</li>
+</ul>
+
+
+<h2>Challenges:</h2>
+
+<ul>
+<li>I will have to generate unique URLs for each checklist. I&rsquo;m wondering how I&rsquo;ll do that&hellip;</li>
+</ul>
+
+
+<h2>Tonight:</h2>
+
+<ul>
+<li>Watching this video on making real-time web apps with Angjuar.js and Firebase: <a href="http://www.youtube.com/watch?v=C7ZI7z7qnHU">http://www.youtube.com/watch?v=C7ZI7z7qnHU</a></li>
+</ul>
+
+
+<h2>Code challenge of the day:</h2>
+
+<p>-None. Yet. :(</p>
+
+<h2>Life / Home:</h2>
+
+<ul>
+<li>I&rsquo;m reading Flow by Mihaly Csikszentmihalyi. Jeff Casimir, aka @J3, recommended the book during his presentation at LA Ruby the other month.</li>
+</ul>
+
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		

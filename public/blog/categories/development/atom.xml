@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: development, | From the desk of Machiko Yasuda]]></title>
+  <title><![CDATA[Category: development | From the desk of Machiko Yasuda]]></title>
   <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/development/atom.xml" rel="self"/>
   <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-  <updated>2013-08-23T17:29:51-07:00</updated>
+  <updated>2013-08-26T17:38:52-07:00</updated>
   <id>http://pacific-escarpment-7101.herokuapp.com//</id>
   <author>
     <name><![CDATA[Machiko Yasuda]]></name>
@@ -14,21 +14,43 @@
 
   
   <entry>
-    <title type="html"><![CDATA[new habit]]></title>
-    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/17/new-habit/"/>
-    <updated>2013-08-17T20:33:00-07:00</updated>
-    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/17/new-habit</id>
-    <content type="html"><![CDATA[<p><code>
-git commit -m "Add a new blog post on commits."
-</code></p>
+    <title type="html"><![CDATA[day one - configuring]]></title>
+    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/26/day-one-configuring/"/>
+    <updated>2013-08-26T11:16:00-07:00</updated>
+    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/26/day-one-configuring</id>
+    <content type="html"><![CDATA[<h2>Today:</h2>
 
-<p>I have a strange, short-term memory these days. Memories will come back to me like vivid movie scenes, but if you asked me what I did seven days ago — I might come up blank. Maybe it&rsquo;s all the learning and working.</p>
+<ul>
+<li>Start CloudBees account with a basic Angular.JS build from Angular-Seed</li>
+<li>It took a really long time.</li>
+<li>Learned a little bit about ng-controller and ng-model, filters and directives.</li>
+</ul>
 
-<p>What&rsquo;s been changing my week so far though, has been the simple act of committing each minor project accomplishment as a git commit.</p>
 
-<p>Version Control on git is not just for easier collaborating and sharing work, I&rsquo;ve realized. I can look back on my commits from a month or two months back and re-read some jQuery I wrote to refresh my brain on syntax and methods. Or I can go back and see what I&rsquo;ve done in the past week.</p>
+<h2>Challenges:</h2>
 
-<p>Projects are daunting. Starting at zero and trying to get to the finish line in one long leap is a daunting leap to make. Instead of fretting over getting it perfect the first time, I&rsquo;ve been celebrating each tiny little commit. Because it&rsquo;s those little steps in between that will get me there.</p>
+<ul>
+<li>I will have to generate unique URLs for each checklist. I&rsquo;m wondering how I&rsquo;ll do that&hellip;</li>
+</ul>
+
+
+<h2>Tonight:</h2>
+
+<ul>
+<li>Watching this video on making real-time web apps with Angjuar.js and Firebase: <a href="http://www.youtube.com/watch?v=C7ZI7z7qnHU">http://www.youtube.com/watch?v=C7ZI7z7qnHU</a></li>
+</ul>
+
+
+<h2>Code challenge of the day:</h2>
+
+<p>-None. Yet. :(</p>
+
+<h2>Life / Home:</h2>
+
+<ul>
+<li>I&rsquo;m reading Flow by Mihaly Csikszentmihalyi. Jeff Casimir, aka @J3, recommended the book during his presentation at LA Ruby the other month.</li>
+</ul>
+
 ]]></content>
   </entry>
   

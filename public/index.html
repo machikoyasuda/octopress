@@ -51,6 +51,59 @@
 		<!-- START OF _includes/article.html -->
 <article>
 	<header>
+		<h1><a href="/blog/2013/08/27/day-two-enter-firebase/">day two - enter Firebase</a></h1>
+		<time>27 August 2013</time>
+	</header>
+		<div class="content">
+			<p>Today:
+&ndash; Did not go back into Cloudbees.
+&ndash; Moved repository to GitHub instead, and started using a Node.js webserver for development.
+&ndash; Hooked up Firebase to the Angular project and started adding items to Firebase database with my first controller.
+&ndash; Wrote a few short JavaScript functions to (1) see how many items there are, (2) see how many are remaining and (3) calculate and show the progress.
+&ndash; My model is as follows, at the moment: An array of item objects, which have a name (text) and status (true/false). False is not done. True means it&rsquo;s checked and done.</p>
+
+<p>Road blocks:
+&ndash; GUID URL generation and persisting into database. I will need to (1) create a new URL for each new checklist, (2) save that ID into the database with the array of items with statuses and names. When a user returns to that specific URL, the user will see that same list. It will not refresh and go blank (like it currently does).
+&ndash; Have not done any test-writing yet. But I want to! I&rsquo;ve been writing in Sublime Text, console.log() into console and running the app. I would like to test, though.
+&ndash; Down the line, we need to figure out how to deploy &ndash; Heroku or GitHub pages?</p>
+
+<p>Tomorrow:
+&ndash; I hope to set up testing somehow, with Jasmine, Karma or whatever.
+&ndash; I hope to start saving and persisting data, even if I don&rsquo;t have unique URLs yet.</p>
+
+<p>Code challenges:
+&ndash; To make up for what I didn&rsquo;t do yesterday, I did a Ruby exercism.io and a JavaScript one.
+&ndash; I will push them to GitHub as soon as they are approved.</p>
+
+		</div>
+	<footer>
+		
+
+
+		
+
+
+
+  
+		
+			Tagged under
+		
+    <a class='category' href='/blog/categories/development/'>development</a>
+	
+
+
+	
+	
+	</footer>
+	
+</article>
+<!-- END OF _includes/article.html -->
+
+	
+		
+		<!-- START OF _includes/article.html -->
+<article>
+	<header>
 		<h1><a href="/blog/2013/08/26/day-one-configuring/">day one - configuring</a></h1>
 		<time>26 August 2013</time>
 	</header>
@@ -548,47 +601,6 @@ On side projects for learning: &ldquo;It doesn&rsquo;t matter if someone else di
 			Tagged under
 		
     <a class='category' href='/blog/categories/learning/'>learning</a>
-	
-
-
-	
-	
-	</footer>
-	
-</article>
-<!-- END OF _includes/article.html -->
-
-	
-		
-		<!-- START OF _includes/article.html -->
-<article>
-	<header>
-		<h1><a href="/blog/2013/06/17/day-one/">day one</a></h1>
-		<time>17 June 2013</time>
-	</header>
-		<div class="content">
-			<p>&ldquo;One of the biggest problems on software development teams in communication.&rdquo;</p>
-
-<p>Try to tackle learning by problem-first, project-first, rather than requirements-first.</p>
-
-<p>The first part of a project is coming up with the problem, planning the data structure and sketching a wireframe. The data structure tree and the wireframes are mostly a communication tool — you can bring it up to colleagues and bosses and start talking about specifics.</p>
-
-<p>In the same way we&rsquo;d plan how to schedule our project time, we can schedule our learning as well.</p>
-
-		</div>
-	<footer>
-		
-
-
-		
-
-
-
-  
-		
-			Tagged under
-		
-    <a class='category' href='/blog/categories/class/'>class</a>, <a class='category' href='/blog/categories/reflection/'>reflection</a>
 	
 
 

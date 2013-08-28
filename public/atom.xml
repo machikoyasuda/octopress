@@ -4,7 +4,7 @@
 	<title><![CDATA[From the desk of Machiko Yasuda]]></title>
 	<link href="http://pacific-escarpment-7101.herokuapp.com//atom.xml" rel="self"/>
 	<link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-	<updated>2013-08-26T17:38:52-07:00</updated>
+	<updated>2013-08-27T22:50:01-07:00</updated>
 	<id>http://pacific-escarpment-7101.herokuapp.com//</id>
 	<author>
 		<name><![CDATA[Machiko Yasuda]]></name>
@@ -12,6 +12,42 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[day two - enter Firebase]]></title>
+		
+		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/27/day-two-enter-firebase/"/>
+		<updated>2013-08-27T21:41:00-07:00</updated>
+		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/27/day-two-enter-firebase</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Today:
+&ndash; Did not go back into Cloudbees.
+&ndash; Moved repository to GitHub instead, and started using a Node.js webserver for development.
+&ndash; Hooked up Firebase to the Angular project and started adding items to Firebase database with my first controller.
+&ndash; Wrote a few short JavaScript functions to (1) see how many items there are, (2) see how many are remaining and (3) calculate and show the progress.
+&ndash; My model is as follows, at the moment: An array of item objects, which have a name (text) and status (true/false). False is not done. True means it&rsquo;s checked and done.</p>
+
+<p>Road blocks:
+&ndash; GUID URL generation and persisting into database. I will need to (1) create a new URL for each new checklist, (2) save that ID into the database with the array of items with statuses and names. When a user returns to that specific URL, the user will see that same list. It will not refresh and go blank (like it currently does).
+&ndash; Have not done any test-writing yet. But I want to! I&rsquo;ve been writing in Sublime Text, console.log() into console and running the app. I would like to test, though.
+&ndash; Down the line, we need to figure out how to deploy &ndash; Heroku or GitHub pages?</p>
+
+<p>Tomorrow:
+&ndash; I hope to set up testing somehow, with Jasmine, Karma or whatever.
+&ndash; I hope to start saving and persisting data, even if I don&rsquo;t have unique URLs yet.</p>
+
+<p>Code challenges:
+&ndash; To make up for what I didn&rsquo;t do yesterday, I did a Ruby exercism.io and a JavaScript one.
+&ndash; I will push them to GitHub as soon as they are approved.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		

@@ -7,7 +7,7 @@ categories: development
 ---
 
 ## Today:
-- Did not go back into Cloudbees.
+- Did not go back into Cloudbees. Never again.
 - Moved repository to GitHub instead, and started using a Node.js webserver for development.
 - Hooked up Firebase to the Angular project and started adding items to Firebase database with my first controller.
 - Wrote a few short JavaScript functions to (1) see how many items there are, (2) see how many are remaining and (3) calculate and show the progress.

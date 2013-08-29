@@ -9,7 +9,7 @@
 		<meta content="" name="description">
 		<meta content="From the desk of Machiko Yasuda" name="author">
 		
-		<title>Category: angular, &mdash; From the desk of Machiko Yasuda</title>
+		<title>day three - all sorts of things &mdash; From the desk of Machiko Yasuda</title>
 		
 		<!-- Styles -->
 		<link href="/stylesheets/main.css" rel="stylesheet">
@@ -44,40 +44,78 @@
 				</div> <!-- // .navi -->
 			</header>
 		
-				<!-- START OF _layouts/page.html -->
+				<!-- START OF _layouts/post.html -->
+
+<!-- START OF _includes/article.html -->
 <article>
-<header>
-	
-			<h1 class="center">Category: angular,</h1>
-	
-</header>
-<!-- BEGIN _layouts/category_index.html -->
+	<header>
+		<h1><a href="/blog/2013/08/28/day-three-all-sorts-of-things/">day three - all sorts of things</a></h1>
+		<time>28 August 2013</time>
+	</header>
+		<div class="content">
+			<h1>Today:</h1>
+
+<ul>
+<li>Learning about try/catch/finally/throw. [<a href="https://gist.github.com/machikoyasuda/6373231">https://gist.github.com/machikoyasuda/6373231</a>]</li>
+<li>try: the function you are testing</li>
+<li>catch(e): the fall-back function in case try does not work.</li>
+<li>finally: always runs &ndash; usually an alert. optional.</li>
+<li>throw: define different variations of the catch &ldquo;e&rdquo;, like NaN, out of range exceptions.</li>
+<li>Did a little Mustache.js: [<a href="https://github.com/machikoyasuda/mustache-js-test">https://github.com/machikoyasuda/mustache-js-test</a>]</li>
+<li>I think I will get to implement some Mustache.js in my Datamap project. I will insert things like Census report name or table name into the JSON, and use it later on the front-end.</li>
+<li>On my project, I added some new stylings, but no new JavaScript functions. The data now persists to database.</li>
+</ul>
 
 
+<h1>Roadblocks:</h1>
+
+<ul>
+<li>Should users be able to edit item names? If so, what&rsquo;s the best mobile UI for that? A button or something else?</li>
+<li>Tomorrow I plan to start generating unique URL with an unique ID for each checklist. That ID must somehow correspond with the correct Firebase collection.</li>
+</ul>
+
+
+<h1>Tonight:</h1>
+
+<ul>
+<li>Figure out how to run my Jasmine/Karma tests.</li>
+</ul>
+
+
+<h1>Code challenge:</h1>
+
+<ul>
+<li>Start nit-picking for Ruby and JS excercism.</li>
+<li>Start a new challenge. Maybe find a friend to program with.</li>
+</ul>
+
+
+		</div>
+	<footer>
+		
+
+
+		
 
 
 
   
-	<div class="cat-year">2013</div>
+		
+			Tagged under
+		
+    <a class='category' href='/blog/categories/angular/'>angular,</a>, <a class='category' href='/blog/categories/development/'>development,</a>, <a class='category' href='/blog/categories/javascript/'>javascript</a>
+	
 
 
-
-  
-	<div class="cat-month">August</div>
-
-
-<!-- BEGIN _includes/archive_post.html -->
-
-<a class="title-listing" href="/blog/2013/08/28/day-three-all-sorts-of-things/">day three - all sorts of things</a><br>
-<!-- END _includes/archive_post.html -->
-
-
-
-
-<!-- _layouts/category_index.html -->
-
+	
+	
+	</footer>
+	
 </article>
-<!-- END OF _layouts/page.html -->
+<!-- END OF _includes/article.html -->
+
+
+<!-- END OF _/layouts/post.html -->
 
 		
 			<footer>

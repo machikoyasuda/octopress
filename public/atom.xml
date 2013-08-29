@@ -4,7 +4,7 @@
 	<title><![CDATA[From the desk of Machiko Yasuda]]></title>
 	<link href="http://pacific-escarpment-7101.herokuapp.com//atom.xml" rel="self"/>
 	<link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-	<updated>2013-08-27T22:55:37-07:00</updated>
+	<updated>2013-08-28T18:14:02-07:00</updated>
 	<id>http://pacific-escarpment-7101.herokuapp.com//</id>
 	<author>
 		<name><![CDATA[Machiko Yasuda]]></name>
@@ -12,6 +12,59 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[day three - all sorts of things]]></title>
+		
+		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/28/day-three-all-sorts-of-things/"/>
+		<updated>2013-08-28T17:47:00-07:00</updated>
+		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/28/day-three-all-sorts-of-things</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<h1>Today:</h1>
+
+<ul>
+<li>Learning about try/catch/finally/throw. [<a href="https://gist.github.com/machikoyasuda/6373231">https://gist.github.com/machikoyasuda/6373231</a>]</li>
+<li>try: the function you are testing</li>
+<li>catch(e): the fall-back function in case try does not work.</li>
+<li>finally: always runs &ndash; usually an alert. optional.</li>
+<li>throw: define different variations of the catch &ldquo;e&rdquo;, like NaN, out of range exceptions.</li>
+<li>Did a little Mustache.js: [<a href="https://github.com/machikoyasuda/mustache-js-test">https://github.com/machikoyasuda/mustache-js-test</a>]</li>
+<li>I think I will get to implement some Mustache.js in my Datamap project. I will insert things like Census report name or table name into the JSON, and use it later on the front-end.</li>
+<li>On my project, I added some new stylings, but no new JavaScript functions. The data now persists to database.</li>
+</ul>
+
+
+<h1>Roadblocks:</h1>
+
+<ul>
+<li>Should users be able to edit item names? If so, what&rsquo;s the best mobile UI for that? A button or something else?</li>
+<li>Tomorrow I plan to start generating unique URL with an unique ID for each checklist. That ID must somehow correspond with the correct Firebase collection.</li>
+</ul>
+
+
+<h1>Tonight:</h1>
+
+<ul>
+<li>Figure out how to run my Jasmine/Karma tests.</li>
+</ul>
+
+
+<h1>Code challenge:</h1>
+
+<ul>
+<li>Start nit-picking for Ruby and JS excercism.</li>
+<li>Start a new challenge. Maybe find a friend to program with.</li>
+</ul>
+
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		

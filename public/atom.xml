@@ -4,7 +4,7 @@
 	<title><![CDATA[From the desk of Machiko Yasuda]]></title>
 	<link href="http://pacific-escarpment-7101.herokuapp.com//atom.xml" rel="self"/>
 	<link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-	<updated>2013-08-29T21:49:49-07:00</updated>
+	<updated>2013-08-30T17:50:27-07:00</updated>
 	<id>http://pacific-escarpment-7101.herokuapp.com//</id>
 	<author>
 		<name><![CDATA[Machiko Yasuda]]></name>
@@ -12,6 +12,42 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[day five: almost mvp?]]></title>
+		
+		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/30/day-five-almost-mvp/"/>
+		<updated>2013-08-30T17:45:00-07:00</updated>
+		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/30/day-five-almost-mvp</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<h2>Today</h2>
+
+<p>I got the URL generating somehow.</p>
+
+<h1>Next week:</h1>
+
+<ol>
+<li>Front-end/UI &ndash; Re-do introduction welcome language and style.</li>
+<li>Make a &ldquo;Bookmark this&rdquo; and &ldquo;Send this&rdquo; button.</li>
+<li>Add viewport styling for web browser and iPad.</li>
+<li>TESTING!</li>
+</ol>
+
+
+<p>Go back to my datamap project
+1. Fix d3 chart
+2. Add map
+3. Add dropdown menu to choose datasets
+4. Add more datasets.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		

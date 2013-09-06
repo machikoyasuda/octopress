@@ -1,0 +1,161 @@
+
+<!doctype html>
+<!-- START OF _layouts/default.html -->
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<meta content="" name="description">
+		<meta content="From the desk of Machiko Yasuda" name="author">
+		
+		<title>Day last - Deploying &mdash; From the desk of Machiko Yasuda</title>
+		
+		<!-- Styles -->
+		<link href="/stylesheets/main.css" rel="stylesheet">
+		
+		<!-- Google webfonts -->
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
+		
+		<!-- jQuery and plugins -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="/js/jquery.zclip.min.js"></script>
+		
+		<!-- Syntax highlighter -->
+		<link href="/stylesheets/prettify-hemisu.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="/js/prettify.js"></script>
+		
+		<!--<link href="http://feeds.feedburner.com/turkeltaub" rel="alternate" title="From the desk of Machiko Yasuda" type="application/rss+xml" />-->
+		
+	</head>
+	<body onload="prettyPrint()">
+	
+		<div class="wrap">
+	
+			<header>
+				<div class="title">From the desk of Machiko Yasuda</div>
+				
+				<div class="navi">
+					<ul>
+						<li><a href="/">Blog</a></li>
+						<li><a href="/blog/archives">Archives</a></li>
+					<ul>
+				</div> <!-- // .navi -->
+			</header>
+		
+				<!-- START OF _layouts/post.html -->
+
+<!-- START OF _includes/article.html -->
+<article>
+	<header>
+		<h1><a href="/blog/2013/09/06/day-last-deploying/">Day last - Deploying</a></h1>
+		<time>06 September 2013</time>
+	</header>
+		<div class="content">
+			<h2>How to deploy an AngularFire &ndash; Yeoman project to GitHub</h2>
+
+<ol>
+<li>Follow these instructions at <a href="http://yeoman.io/deployment.html">Yeoman</a></li>
+<li>If you get fatal CRLF errors, install <a href="http://linuxcommand.org/man_pages/dos2unix1.html">dos2unix</a>. Type into Terminal: <code>brew in]stall dos2unix</code> and then, use the tool to convert your troublesome files in the <code>dist</code> folder by running: <code>find /dist -type f -exec dos2unix {} +</code></li>
+<li>Make sure that your <code>dist</code> folder is in the root directory.</li>
+<li>After your <code>dist</code> folder is added to the <code>gh-pages</code> branch, push it by running: <code>git subtree push --prefix dist origin gh-pages</code></li>
+<li>Go to <code>your-name.github.io/your-repo-name</code>]</li>
+<li>Enjoy!</li>
+</ol>
+
+
+<h2>A weekly stand-up:</h2>
+
+<h4>What I did this week &ndash;</h4>
+
+<ol>
+<li>Thanks to <strong>Theresa</strong> for having us over at her house this weekend. Climbing takes my mind off all the stress.</li>
+<li>I worked on three roadblocks in my project: a Firebase refreshing problem and not getting tests to run and deploying.</li>
+<li>Yesterday I went to a mini-Madison Ruby meet-up in LA. It&rsquo;s always fun to meet other web developers in the area that really care about the community, ethics and the future of the Internet in general.</li>
+</ol>
+
+
+<h4>Roadblocks I faced this week &ndash;</h4>
+
+<ol>
+<li>Thanks to <strong>Josh</strong> helped me fix my refreshing bug. <em>Takeaway</em>: If you&rsquo;re creating new Firebase collection upon a button click, <strong>separate the functions into different controllers</strong>.</li>
+<li>Thanks to <strong>Delmer</strong> for helping me move Firebase call from the controller to the service. This helped me get Jasmine/Karma tests to run. <em>Takeaway</em>: <strong>Separate your Firebase into a service</strong>.</li>
+</ol>
+
+
+<h4>What&rsquo;s next &ndash;</h4>
+
+<ol>
+<li>Now that I&rsquo;ve deployed, I can start doing real testing on my phone and other people&rsquo;s non-iPhones. This will hopefully inform how I can continue to improve the user experience of typing, clicking, checking things off.</li>
+<li>I also want to work on my datamap project and my personal portfolio page.</li>
+</ol>
+
+
+		</div>
+	<footer>
+		
+
+
+		
+
+
+
+  
+		
+			Tagged under
+		
+    <a class='category' href='/blog/categories/angular/'>angular,</a>, <a class='category' href='/blog/categories/deploying/'>deploying</a>, <a class='category' href='/blog/categories/firebase/'>firebase,</a>, <a class='category' href='/blog/categories/github/'>github,</a>
+	
+
+
+	
+	
+	</footer>
+	
+</article>
+<!-- END OF _includes/article.html -->
+
+
+<!-- END OF _/layouts/post.html -->
+
+		
+			<footer>
+				Copyright &copy; 2013
+
+	Machiko Yasuda
+
+
+			</footer>
+			
+		</div> <!-- // .wrap -->
+	</body>
+	<script>
+		$(document).ready(function() {
+			// Make images center
+			$('p:has(img)').css('text-align', 'center');
+			
+			// Add the image's title attribute as a caption
+			$('p:has(img)').append(function () {
+				return '<div class="caption">' + $('img', this).attr('title') + '</div>';
+			});
+			
+			// Prettify code
+			$('code').addClass('prettyprint');
+			$('pre code').addClass('linenums');
+			
+			// Copy to clipboard with button
+			$('pre:has(code)').prepend(function(){
+				return '<div class="clip-btn">copy to clipboard</div>';
+			});
+			$('.clip-btn').zclip({
+				path:'/js/ZeroClipboard.swf',
+				copy: $(this).next('code').text(),
+				afterCopy: function(){
+					$(this).replaceWith('<div class="clip-btn">copied!');
+					}
+			});
+		});
+	</script>
+</html>
+<!-- END OF _layouts/default.html -->

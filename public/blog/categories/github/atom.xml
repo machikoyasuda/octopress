@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: angular, | From the desk of Machiko Yasuda]]></title>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/angular/atom.xml" rel="self"/>
+  <title><![CDATA[Category: github, | From the desk of Machiko Yasuda]]></title>
+  <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/github/atom.xml" rel="self"/>
   <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
   <updated>2013-09-06T10:49:25-07:00</updated>
   <id>http://pacific-escarpment-7101.herokuapp.com//</id>
@@ -55,50 +55,6 @@
 <li>Now that I&rsquo;ve deployed, I can start doing real testing on my phone and other people&rsquo;s non-iPhones. This will hopefully inform how I can continue to improve the user experience of typing, clicking, checking things off.</li>
 <li>I also want to work on my datamap project and my personal portfolio page.</li>
 </ol>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[day three - all sorts of things]]></title>
-    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/28/day-three-all-sorts-of-things/"/>
-    <updated>2013-08-28T17:47:00-07:00</updated>
-    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/28/day-three-all-sorts-of-things</id>
-    <content type="html"><![CDATA[<h2>Today:</h2>
-
-<ul>
-<li>Learning about <a href="https://gist.github.com/machikoyasuda/6373231">try-catch-finally-throw</a> See the gist there.</li>
-<li>try: the function you are testing</li>
-<li>catch(e): the fall-back function in case try does not work.</li>
-<li>finally: always runs &ndash; usually an alert. optional.</li>
-<li>throw: define different variations of the catch &ldquo;e&rdquo;, like NaN, out of range exceptions.</li>
-<li>Did a little <a href="https://github.com/machikoyasuda/mustache-js-test">Mustache.js</a>. See the code there.</li>
-<li>I think I will get to implement some Mustache.js in my Datamap project. I will insert things like Census report name or table name into the JSON, and use it later on the front-end.</li>
-<li>On my project, I added some new stylings, but no new JavaScript functions. The data now persists to database.</li>
-</ul>
-
-
-<h2>Roadblocks:</h2>
-
-<ul>
-<li>Should users be able to edit item names? If so, what&rsquo;s the best mobile UI for that? A button or something else?</li>
-<li>Tomorrow I plan to start generating unique URL with an unique ID for each checklist. That ID must somehow correspond with the correct Firebase collection.</li>
-</ul>
-
-
-<h2>Tonight:</h2>
-
-<ul>
-<li>Figure out how to run my Jasmine/Karma tests.</li>
-</ul>
-
-
-<h2>Code challenge:</h2>
-
-<ul>
-<li>Start nit-picking for Ruby and JS excercism.</li>
-<li>Start a new challenge. Maybe find a friend to program with.</li>
-</ul>
 
 ]]></content>
   </entry>

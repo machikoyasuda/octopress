@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: firebase, | From the desk of Machiko Yasuda]]></title>
+  <title><![CDATA[Category: firebase | From the desk of Machiko Yasuda]]></title>
   <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/firebase/atom.xml" rel="self"/>
   <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-  <updated>2013-09-06T10:49:25-07:00</updated>
+  <updated>2013-09-26T17:50:25-07:00</updated>
   <id>http://pacific-escarpment-7101.herokuapp.com//</id>
   <author>
     <name><![CDATA[Machiko Yasuda]]></name>
@@ -22,10 +22,10 @@
 
 <ol>
 <li>Follow these instructions at <a href="http://yeoman.io/deployment.html">Yeoman</a></li>
-<li>If you get fatal CRLF errors, install <a href="http://linuxcommand.org/man_pages/dos2unix1.html">dos2unix</a>. Type into Terminal: <code>brew in]stall dos2unix</code> and then, use the tool to convert your troublesome files in the <code>dist</code> folder by running: <code>find /dist -type f -exec dos2unix {} +</code></li>
+<li>If you get fatal CRLF errors, install <a href="http://linuxcommand.org/man_pages/dos2unix1.html">dos2unix</a>. Type into Terminal: <code>brew install dos2unix</code> and then, use the tool to convert your troublesome files in the <code>dist</code> folder by running: <code>find /dist -type f -exec dos2unix {} +</code>. This will convert all the files for you, without changing the filenames.</li>
 <li>Make sure that your <code>dist</code> folder is in the root directory.</li>
-<li>After your <code>dist</code> folder is added to the <code>gh-pages</code> branch, push it by running: <code>git subtree push --prefix dist origin gh-pages</code></li>
-<li>Go to <code>your-name.github.io/your-repo-name</code>]</li>
+<li>After your <code>dist</code> folder is added to the <code>gh-pages</code> branch, push it by running: <code>git subtree push --prefix dist origin gh-pages</code>. This should push only your <code>dist</code> folder to your <code>gh-pages</code> branch. You should have an <code>index.html</code> in the root.</li>
+<li>Go to <code>your-name.github.io/your-repo-name</code></li>
 <li>Enjoy!</li>
 </ol>
 

@@ -59,10 +59,10 @@
 
 <ol>
 <li>Follow these instructions at <a href="http://yeoman.io/deployment.html">Yeoman</a></li>
-<li>If you get fatal CRLF errors, install <a href="http://linuxcommand.org/man_pages/dos2unix1.html">dos2unix</a>. Type into Terminal: <code>brew in]stall dos2unix</code> and then, use the tool to convert your troublesome files in the <code>dist</code> folder by running: <code>find /dist -type f -exec dos2unix {} +</code></li>
+<li>If you get fatal CRLF errors, install <a href="http://linuxcommand.org/man_pages/dos2unix1.html">dos2unix</a>. Type into Terminal: <code>brew install dos2unix</code> and then, use the tool to convert your troublesome files in the <code>dist</code> folder by running: <code>find /dist -type f -exec dos2unix {} +</code>. This will convert all the files for you, without changing the filenames.</li>
 <li>Make sure that your <code>dist</code> folder is in the root directory.</li>
-<li>After your <code>dist</code> folder is added to the <code>gh-pages</code> branch, push it by running: <code>git subtree push --prefix dist origin gh-pages</code></li>
-<li>Go to <code>your-name.github.io/your-repo-name</code>]</li>
+<li>After your <code>dist</code> folder is added to the <code>gh-pages</code> branch, push it by running: <code>git subtree push --prefix dist origin gh-pages</code>. This should push only your <code>dist</code> folder to your <code>gh-pages</code> branch. You should have an <code>index.html</code> in the root.</li>
+<li>Go to <code>your-name.github.io/your-repo-name</code></li>
 <li>Enjoy!</li>
 </ol>
 
@@ -107,7 +107,7 @@
 		
 			Tagged under
 		
-    <a class='category' href='/blog/categories/angular/'>angular,</a>, <a class='category' href='/blog/categories/deploying/'>deploying</a>, <a class='category' href='/blog/categories/firebase/'>firebase,</a>, <a class='category' href='/blog/categories/github/'>github,</a>
+    <a class='category' href='/blog/categories/angular/'>angular</a>, <a class='category' href='/blog/categories/deploying/'>deploying</a>, <a class='category' href='/blog/categories/firebase/'>firebase</a>, <a class='category' href='/blog/categories/github/'>github</a>
 	
 
 

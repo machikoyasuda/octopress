@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: angular, | From the desk of Machiko Yasuda]]></title>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/angular/atom.xml" rel="self"/>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-  <updated>2013-10-02T13:12:14-07:00</updated>
-  <id>http://pacific-escarpment-7101.herokuapp.com//</id>
+  <title><![CDATA[Category: angular, | Machiko Yasuda]]></title>
+  <link href="http://machikoyasuda.herokuapp.com//blog/categories/angular/atom.xml" rel="self"/>
+  <link href="http://machikoyasuda.herokuapp.com//"/>
+  <updated>2013-10-04T00:49:40-07:00</updated>
+  <id>http://machikoyasuda.herokuapp.com//</id>
   <author>
     <name><![CDATA[Machiko Yasuda]]></name>
     
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[day three - all sorts of things]]></title>
-    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/28/day-three-all-sorts-of-things/"/>
+    <title type="html"><![CDATA[day three: all sorts of things]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/08/28/day-three-all-sorts-of-things/"/>
     <updated>2013-08-28T17:47:00-07:00</updated>
-    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/28/day-three-all-sorts-of-things</id>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/08/28/day-three-all-sorts-of-things</id>
     <content type="html"><![CDATA[<h2>Today:</h2>
 
 <ul>

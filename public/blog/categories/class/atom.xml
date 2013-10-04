@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: class | From the desk of Machiko Yasuda]]></title>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/class/atom.xml" rel="self"/>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-  <updated>2013-10-02T13:12:14-07:00</updated>
-  <id>http://pacific-escarpment-7101.herokuapp.com//</id>
+  <title><![CDATA[Category: class | Machiko Yasuda]]></title>
+  <link href="http://machikoyasuda.herokuapp.com//blog/categories/class/atom.xml" rel="self"/>
+  <link href="http://machikoyasuda.herokuapp.com//"/>
+  <updated>2013-10-04T00:49:40-07:00</updated>
+  <id>http://machikoyasuda.herokuapp.com//</id>
   <author>
     <name><![CDATA[Machiko Yasuda]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[day one]]></title>
-    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/17/day-one/"/>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/06/17/day-one/"/>
     <updated>2013-06-17T14:03:00-07:00</updated>
-    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/17/day-one</id>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/06/17/day-one</id>
     <content type="html"><![CDATA[<p>&ldquo;One of the biggest problems on software development teams in communication.&rdquo;</p>
 
 <p>Try to tackle learning by problem-first, project-first, rather than requirements-first.</p>

@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title><![CDATA[From the desk of Machiko Yasuda]]></title>
-	<link href="http://pacific-escarpment-7101.herokuapp.com//atom.xml" rel="self"/>
-	<link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-	<updated>2013-10-02T13:12:14-07:00</updated>
-	<id>http://pacific-escarpment-7101.herokuapp.com//</id>
-	<author>
-		<name><![CDATA[Machiko Yasuda]]></name>
-		
-	</author>
-	<generator uri="http://octopress.org/">Octopress</generator>
+  <title><![CDATA[Machiko Yasuda]]></title>
+  <link href="http://machikoyasuda.herokuapp.com//atom.xml" rel="self"/>
+  <link href="http://machikoyasuda.herokuapp.com//"/>
+  <updated>2013-10-04T00:49:40-07:00</updated>
+  <id>http://machikoyasuda.herokuapp.com//</id>
+  <author>
+    <name><![CDATA[Machiko Yasuda]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Day last - Deploying]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/09/06/day-last-deploying/"/>
-		<updated>2013-09-06T10:27:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/09/06/day-last-deploying</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<h2>How to deploy an AngularFire &ndash; Yeoman project to GitHub</h2>
+  
+  <entry>
+    <title type="html"><![CDATA[day six: deploying]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/09/06/day-last-deploying/"/>
+    <updated>2013-09-06T10:27:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/09/06/day-last-deploying</id>
+    <content type="html"><![CDATA[<h2>How to deploy an AngularFire &ndash; Yeoman project to GitHub</h2>
 
 <ol>
 <li>Follow these instructions at <a href="http://yeoman.io/deployment.html">Yeoman</a></li>
@@ -64,24 +56,15 @@
 <li>I also want to work on my datamap project and my personal portfolio page.</li>
 </ol>
 
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[day five: almost mvp?]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/30/day-five-almost-mvp/"/>
-		<updated>2013-08-30T17:45:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/30/day-five-almost-mvp</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<h2>Today</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[day five: almost mvp?]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/08/30/day-five-almost-mvp/"/>
+    <updated>2013-08-30T17:45:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/08/30/day-five-almost-mvp</id>
+    <content type="html"><![CDATA[<h2>Today</h2>
 
 <p>I got the URL generating somehow.</p>
 
@@ -100,24 +83,15 @@
 2. Add map
 3. Add dropdown menu to choose datasets
 4. Add more datasets.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[day four: traversing along]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/29/day-four-traversing-along/"/>
-		<updated>2013-08-29T21:48:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/29/day-four-traversing-along</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<h2>Today:</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[day four: traversing along]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/08/29/day-four-traversing-along/"/>
+    <updated>2013-08-29T21:48:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/08/29/day-four-traversing-along</id>
+    <content type="html"><![CDATA[<h2>Today:</h2>
 
 <p>Today our group took a different approach. We talked about our main back-end roadblocks and broke up into groups to tackle them together.</p>
 
@@ -153,24 +127,15 @@
 <li>Deploying!</li>
 </ol>
 
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[day three - all sorts of things]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/28/day-three-all-sorts-of-things/"/>
-		<updated>2013-08-28T17:47:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/28/day-three-all-sorts-of-things</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<h2>Today:</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[day three: all sorts of things]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/08/28/day-three-all-sorts-of-things/"/>
+    <updated>2013-08-28T17:47:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/08/28/day-three-all-sorts-of-things</id>
+    <content type="html"><![CDATA[<h2>Today:</h2>
 
 <ul>
 <li>Learning about <a href="https://gist.github.com/machikoyasuda/6373231">try-catch-finally-throw</a> See the gist there.</li>
@@ -206,24 +171,15 @@
 <li>Start a new challenge. Maybe find a friend to program with.</li>
 </ul>
 
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[day two - enter Firebase]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/27/day-two-enter-firebase/"/>
-		<updated>2013-08-27T21:41:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/27/day-two-enter-firebase</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<h2>Today:</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[day two: enter Firebase]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/08/27/day-two-enter-firebase/"/>
+    <updated>2013-08-27T21:41:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/08/27/day-two-enter-firebase</id>
+    <content type="html"><![CDATA[<h2>Today:</h2>
 
 <ul>
 <li>Did not go back into Cloudbees. Never again.</li>
@@ -258,24 +214,15 @@
 <li>I will push them to GitHub as soon as they are approved.</li>
 </ul>
 
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[day one - configuring]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/26/day-one-configuring/"/>
-		<updated>2013-08-26T11:16:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/26/day-one-configuring</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<h2>Today:</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[day one - configuring]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/08/26/day-one-configuring/"/>
+    <updated>2013-08-26T11:16:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/08/26/day-one-configuring</id>
+    <content type="html"><![CDATA[<h2>Today:</h2>
 
 <ul>
 <li>Start CloudBees account with a basic Angular.JS build from Angular-Seed</li>
@@ -308,24 +255,15 @@
 <li>I&rsquo;m reading Flow by Mihaly Csikszentmihalyi. Jeff Casimir, aka @J3, recommended the book during his presentation at LA Ruby the other month.</li>
 </ul>
 
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Log 0]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/23/log-0/"/>
-		<updated>2013-08-23T10:41:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/23/log-0</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>Inspired by JZ and Vyki&rsquo;s <a href="http://dysania.github.io/blog/">Summer of Code Captain&rsquo;s Logs</a>, I&rsquo;ve decided I should organize my project progress, thoughts and homework every day. And what a good chance to practice writing and editing (in VIM and Markdown, no less.) There will be as little bikeshed-painting, yak-shaving as possible! Yesterday JZ and Vyki presented the lessons they&rsquo;ve learned so far from diving into open source coding. One of the Pivotal Labs developers also talked about their dedication to being enabling and empowering by being transparent, constantly shipping and iterating and sharing best practices. Although I&rsquo;m not working on this project as a pair, I want to keep myself accountable by writing a &ldquo;stand-up&rdquo; every day.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Log 0]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/08/23/log-0/"/>
+    <updated>2013-08-23T10:41:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/08/23/log-0</id>
+    <content type="html"><![CDATA[<p>Inspired by JZ and Vyki&rsquo;s <a href="http://dysania.github.io/blog/">Summer of Code Captain&rsquo;s Logs</a>, I&rsquo;ve decided I should organize my project progress, thoughts and homework every day. And what a good chance to practice writing and editing (in VIM and Markdown, no less.) There will be as little bikeshed-painting, yak-shaving as possible! Yesterday JZ and Vyki presented the lessons they&rsquo;ve learned so far from diving into open source coding. One of the Pivotal Labs developers also talked about their dedication to being enabling and empowering by being transparent, constantly shipping and iterating and sharing best practices. Although I&rsquo;m not working on this project as a pair, I want to keep myself accountable by writing a &ldquo;stand-up&rdquo; every day.</p>
 
 <h2>What I did today:</h2>
 
@@ -372,24 +310,15 @@
 <li>Finally finish Learn Ruby the Hard Way</li>
 </ul>
 
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[new habit]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/17/new-habit/"/>
-		<updated>2013-08-17T20:33:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/17/new-habit</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[new habit]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/08/17/new-habit/"/>
+    <updated>2013-08-17T20:33:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/08/17/new-habit</id>
+    <content type="html"><![CDATA[<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>git commit -m "Add a new blog post on commits."</span></code></pre></td></tr></table></div></figure>
 
 
@@ -400,24 +329,15 @@
 <p>Version Control on git is not just for easier collaborating and sharing work, I&rsquo;ve realized. I can look back on my commits from a month or two months back and re-read some jQuery I wrote to refresh my brain on syntax and methods. Or I can go back and see what I&rsquo;ve done in the past week.</p>
 
 <p>Projects are daunting. Starting at zero and trying to get to the finish line in one long leap is a daunting leap to make. Instead of fretting over getting it perfect the first time, I&rsquo;ve been celebrating each tiny little commit. Because it&rsquo;s those little steps in between that will get me there.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Things that can happen, revisited]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/07/28/things-that-can-happen-revisited/"/>
-		<updated>2013-07-28T10:51:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/07/28/things-that-can-happen-revisited</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<ol>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Things that can happen, revisited]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/07/28/things-that-can-happen-revisited/"/>
+    <updated>2013-07-28T10:51:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/07/28/things-that-can-happen-revisited</id>
+    <content type="html"><![CDATA[<ol>
 <li>Silently disco dance at the corner of Main and Temple</li>
 <li>Pillow fight strangers at Pershing Square</li>
 <li>Travel by Big Blue Bus, Angel&rsquo;s Flight, Gold Line, my own car</li>
@@ -441,24 +361,15 @@
 <li>Sit inside a real-life hand-made robot.</li>
 </ol>
 
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Overheard, the greatest hits]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/07/25/greatest-hits-in-quotes/"/>
-		<updated>2013-07-25T23:03:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/07/25/greatest-hits-in-quotes</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>A collection of quotes I&rsquo;ve heard lately and I have now have been playing in my mind, on endless repeat:</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Overheard, the greatest hits]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/07/25/greatest-hits-in-quotes/"/>
+    <updated>2013-07-25T23:03:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/07/25/greatest-hits-in-quotes</id>
+    <content type="html"><![CDATA[<p>A collection of quotes I&rsquo;ve heard lately and I have now have been playing in my mind, on endless repeat:</p>
 
 <blockquote><p>&ldquo;Be resilient to failure. It&rsquo;s like wearing a bulletproof vest.&rdquo;
 &ldquo;Shit is easier. I make it myself.&rdquo;
@@ -469,24 +380,15 @@ On side projects for learning: &ldquo;It doesn&rsquo;t matter if someone else di
 &ldquo;Trying fails, awareness cures.&rdquo;
 &ldquo;Don&rsquo;t warehouse knowledge.&rdquo;
 &ldquo;If design is the how, art direction is the why, front-end is the what and back-end is the factory. Digital is the norm&rdquo;</p></blockquote>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Random access memories: On learning]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/07/25/random-access-memories-on-learning/"/>
-		<updated>2013-07-25T22:47:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/07/25/random-access-memories-on-learning</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<h2>How my mom learned how to make California rolls, or, reason #321 why my mom is rad</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Random access memories: On learning]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/07/25/random-access-memories-on-learning/"/>
+    <updated>2013-07-25T22:47:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/07/25/random-access-memories-on-learning</id>
+    <content type="html"><![CDATA[<h2>How my mom learned how to make California rolls, or, reason #321 why my mom is rad</h2>
 
 <p>My mom grew up in a seaside merchant town on the southern island of Japan. She grew up learning how to eat a whole fish with chopsticks, carefully picking out the spine out of the fish. She can slice a raw squid without getting the ink all over herself. Of course, she rolls sushi.</p>
 
@@ -527,24 +429,15 @@ On side projects for learning: &ldquo;It doesn&rsquo;t matter if someone else di
 <p>But I felt disadvantaged growing up around people who did not speak it correctly. I grew up listening to that, and that felt correct to me. And we communicated just fine.</p>
 
 <p>Nowadays, I try very hard to speak correctly. Not because I&rsquo;m a grammar prick, but because I want people to hear what they might get in some stupid standardized test sometime in the future.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[are computers bicycles for the mind? or cars?]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/23/rough-draft-idea/"/>
-		<updated>2013-06-23T15:28:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/23/rough-draft-idea</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>In this technology-driven world, how do we humans interact with the machines around us? In my mind, there are at least two categories: (1) letting the machine control you, (2) you controlling the machine.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[are computers bicycles for the mind? or cars?]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/06/23/rough-draft-idea/"/>
+    <updated>2013-06-23T15:28:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/06/23/rough-draft-idea</id>
+    <content type="html"><![CDATA[<p>In this technology-driven world, how do we humans interact with the machines around us? In my mind, there are at least two categories: (1) letting the machine control you, (2) you controlling the machine.</p>
 
 <p>One of the biggest differences in my mind about my car vs. my bicycle, is that it&rsquo;s not so easy to change parts around in my car. Sure, I can look under the hood, check the oil levels and if I tried really hard, perhaps I could change a few easy parts: a wind-shield wiper or something. It would be a lot harder to swap out the seats, carpet or any machinery inside.</p>
 
@@ -573,42 +466,24 @@ On side projects for learning: &ldquo;It doesn&rsquo;t matter if someone else di
 <p>This is what is missing from our education today. When I hear a school district is buying everyone laptops, iPads, the new technological phenomenon the skeptic in me thinks about how we&rsquo;re just teaching our children to follow the corporation and consume, consume, consume. Buy more apps. Nag our parents to buy more TV shows or games. Yet we aren&rsquo;t teaching the most crucial thing: how to make apps and games, how to open up the iPad and learn to speak its language and make the iPad to things for us.</p>
 
 <p>In my 6th grade driver&rsquo;s ed, I learned how to drive and how to consume more gas. I didn&rsquo;t learn how to fix flats or even really how cars worked. Looks like our schools may be headed towards teaching how to buy apps, change your typeface on your PowerPoint, take photos with PhotoBooth and Instagram &mdash; but will they teach how to make apps and talk to the machine?</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[week one]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/21/week-1/"/>
-		<updated>2013-06-21T08:52:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/21/week-1</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>Learning how to type, mouse, click efficiently is all part of learning how to make your computer do stuff. It&rsquo;s part of communicating with the machine itself. Like constantly practicing and training your bow hand and fingering on the violin, you aim for precision and speed with keyboard shortcuts and typing. I&rsquo;m liking Notational Velocity (for notes), iTerm2 (Command Line) and a combination of Vim and Sublime Text 2. This week I learned about SizeUp, which I&rsquo;ve been using to divide my 13 inch MacBook Air screen into tiles of apps. Especially for those with smaller laptops and no extra monitors &ndash; highly recommend trying SizeUp.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[day two: on reading v. writing]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/18/day-two/"/>
-		<updated>2013-06-18T23:18:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/18/day-two</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>The learning process for a creative act like coding or writing includes more steps than say, an skill like bicycling in traffic or up hills.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[week one]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/06/21/week-1/"/>
+    <updated>2013-06-21T08:52:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/06/21/week-1</id>
+    <content type="html"><![CDATA[<p>Learning how to type, mouse, click efficiently is all part of learning how to make your computer do stuff. It&rsquo;s part of communicating with the machine itself. Like constantly practicing and training your bow hand and fingering on the violin, you aim for precision and speed with keyboard shortcuts and typing. I&rsquo;m liking Notational Velocity (for notes), iTerm2 (Command Line) and a combination of Vim and Sublime Text 2. This week I learned about SizeUp, which I&rsquo;ve been using to divide my 13 inch MacBook Air screen into tiles of apps. Especially for those with smaller laptops and no extra monitors &ndash; highly recommend trying SizeUp.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[day two: on reading v. writing]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/06/18/day-two/"/>
+    <updated>2013-06-18T23:18:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/06/18/day-two</id>
+    <content type="html"><![CDATA[<p>The learning process for a creative act like coding or writing includes more steps than say, an skill like bicycling in traffic or up hills.</p>
 
 <p>There&rsquo;s still the same amount of memorization, then understanding what you&rsquo;ve memorized (like how cranks work and why the shifters are on which side and which way they move.) As far as performance, bicycling is muscle memory and strength and practice. Performance is all practice. There&rsquo;s some unquestioned notion that the more you practice, the more your skill will increase.</p>
 
@@ -617,48 +492,30 @@ On side projects for learning: &ldquo;It doesn&rsquo;t matter if someone else di
 <p>But when confronted with a blank page, or even a detailed wireframe, it can be difficult to pull it all from your memory and put it back together into something coherent.</p>
 
 <p>Sure, some things will be repeated in every project &mdash; that might be part memory, part convention. But the true creativity must come from somewhere else.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[day one]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/17/day-one/"/>
-		<updated>2013-06-17T14:03:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/17/day-one</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>&ldquo;One of the biggest problems on software development teams in communication.&rdquo;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[day one]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/06/17/day-one/"/>
+    <updated>2013-06-17T14:03:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/06/17/day-one</id>
+    <content type="html"><![CDATA[<p>&ldquo;One of the biggest problems on software development teams in communication.&rdquo;</p>
 
 <p>Try to tackle learning by problem-first, project-first, rather than requirements-first.</p>
 
 <p>The first part of a project is coming up with the problem, planning the data structure and sketching a wireframe. The data structure tree and the wireframes are mostly a communication tool — you can bring it up to colleagues and bosses and start talking about specifics.</p>
 
 <p>In the same way we&rsquo;d plan how to schedule our project time, we can schedule our learning as well.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[What I've done so far]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/17/so-far/"/>
-		<updated>2013-06-17T02:21:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/17/so-far</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>Start from the beginning:</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What I've done so far]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/06/17/so-far/"/>
+    <updated>2013-06-17T02:21:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/06/17/so-far</id>
+    <content type="html"><![CDATA[<p>Start from the beginning:</p>
 
 <ul>
 <li>Learn Command Line the Hard Way</li>
@@ -670,48 +527,30 @@ On side projects for learning: &ldquo;It doesn&rsquo;t matter if someone else di
 <li>Ruby Koans</li>
 </ul>
 
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Ignorant humility]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/15/on-learning/"/>
-		<updated>2013-06-15T06:38:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/15/on-learning</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>More gems from Ellen Ullman&rsquo;s &ldquo;Close to the Machine&rdquo;:</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ignorant humility]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/06/15/on-learning/"/>
+    <updated>2013-06-15T06:38:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/06/15/on-learning</id>
+    <content type="html"><![CDATA[<p>More gems from Ellen Ullman&rsquo;s &ldquo;Close to the Machine&rdquo;:</p>
 
 <blockquote><p>&ldquo;And I&rsquo;ll have to muddle through without certainties. Without my father&rsquo;s belief that the machinery of capital, if you worked hard and log, was benign in the long run, so benign you could even own a piece of it. Without my generation&rsquo;s macho leftism, which made us think we could smash the machine and build a better one&hellip; But all that can wait.</p>
 
 <p>&ldquo;I&rsquo;ve managed to stay in a perpetual state of learning only by maintaining what I think of as a posture of ignorant humility. This humility is as mandatory as arrogance&hellip; There is only one way to deal with this humiliation: bow you head, let go of the idea that you know anything, and ask politely of this new machine &#8220;How do you wish to be operated?&rdquo; If you accept your ignorance, once you really admit to yourself that everything you know is now useless, the new machine will be good to you and tell you: here is how to operate me.&#8221;</p>
 
 <p>&ldquo;The corollary to constant change is ignorance. This is not often talked about: we computer experts barely know what we&rsquo;re doing. We&rsquo;re good at fussing and figuring out. We function well in a sea of unknowns. Our experience has only prepared us to deal with confusion. A programmer who denies this is probably lying, or else densely unaware of himself.&rdquo;</p></blockquote>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Start at 0]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/06/start-at-zero/"/>
-		<updated>2013-06-06T16:53:16-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/06/start-at-zero</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<blockquote><p>For now, I&rsquo;m just going to enjoy where I am: beginning of a new contract, the rocket-takeoff learning curve, the exquisite terror of it, the straight-up ride against gravity into a trajectory not yet calculated.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Start at 0]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/06/06/start-at-zero/"/>
+    <updated>2013-06-06T16:53:16-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/06/06/start-at-zero</id>
+    <content type="html"><![CDATA[<blockquote><p>For now, I&rsquo;m just going to enjoy where I am: beginning of a new contract, the rocket-takeoff learning curve, the exquisite terror of it, the straight-up ride against gravity into a trajectory not yet calculated.</p>
 
 <p>The next time I drive down to the company, a fog hangs lead-gray over the bay. It lingers over all the East Bay cities. Then, where the freeway turns inland, the fog lifts and thins, and the sky turns a sheer glare-white. I race past the trucks, the hills shine deep green in the clear light, and for that moment, I&rsquo;m just where I&rsquo;m supposed to be: driving a fast car to a place I don&rsquo;t know yet, where anything can happen.&ldquo; — Ellen Ullman, <a href="www.robinsloan.com/summer-reading/and-programming/">Close to the Machine</a></p></blockquote>
 
@@ -736,44 +575,26 @@ On side projects for learning: &ldquo;It doesn&rsquo;t matter if someone else di
 
 
 
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Emancipation proclamation]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/05/03/emancipation-proclamation/"/>
-		<updated>2013-05-03T23:02:00-07:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/05/03/emancipation-proclamation</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>Today I continue to pedal on through a never-ending learning journey to make (web) apps.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Emancipation proclamation]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/05/03/emancipation-proclamation/"/>
+    <updated>2013-05-03T23:02:00-07:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/05/03/emancipation-proclamation</id>
+    <content type="html"><![CDATA[<p>Today I continue to pedal on through a never-ending learning journey to make (web) apps.</p>
 
 <p>By September 15, 2013, I will learn how to develop websites from back-end to front-end.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Two-thousand-and-heaven]]></title>
-		
-		<link href="http://pacific-escarpment-7101.herokuapp.com//blog/2011/12/31/two-thousand-and-heaven/"/>
-		<updated>2011-12-31T23:03:00-08:00</updated>
-		<id>http://pacific-escarpment-7101.herokuapp.com//blog/2011/12/31/two-thousand-and-heaven</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>On the last day of the year, I found myself at the barre. I had hurried down the 405, pushing the speed limit yet again (though no tickets, thankfully), arrived to the calm but crowded studio.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Two-thousand-and-heaven]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2011/12/31/two-thousand-and-heaven/"/>
+    <updated>2011-12-31T23:03:00-08:00</updated>
+    <id>http://machikoyasuda.herokuapp.com//blog/2011/12/31/two-thousand-and-heaven</id>
+    <content type="html"><![CDATA[<p>On the last day of the year, I found myself at the barre. I had hurried down the 405, pushing the speed limit yet again (though no tickets, thankfully), arrived to the calm but crowded studio.</p>
 
 <p><em>&ldquo;Make a goal for this hour. A tiny one. Or a big one. Anything. Visualize it in your mind.&rdquo;</em></p>
 
@@ -792,8 +613,7 @@ On side projects for learning: &ldquo;It doesn&rsquo;t matter if someone else di
 <p>This is not my comfort zone.</p>
 
 <p>Neither is moving to a small farm town where I know no one, living in an apartment without internet, shooting tape on deadline. Neither is climbing fifty feet into the air, biking on Pacific Coast Highway. And so many things. And I hope to stay here, always out of my comfort zone.</p>
-]]>
-		</content>
-	</entry>
-	
+]]></content>
+  </entry>
+  
 </feed>

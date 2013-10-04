@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://pacific-escarpment-7101.herokuapp.com/
-title: From the desk of Machiko Yasuda
-subtitle: A serious beginner
+url: http://machikoyasuda.herokuapp.com/
+title: Machiko Yasuda
+subtitle:
 author: Machiko Yasuda
 simple_search: http://google.com/search
 description:
@@ -70,7 +70,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: machikoyasuda
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false

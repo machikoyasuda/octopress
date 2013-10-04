@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://pacific-escarpment-7101.herokuapp.com//sitemap.xml 
+Sitemap: http://machikoyasuda.herokuapp.com//sitemap.xml 

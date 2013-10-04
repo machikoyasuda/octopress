@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: development | From the desk of Machiko Yasuda]]></title>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/development/atom.xml" rel="self"/>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-  <updated>2013-10-02T13:12:14-07:00</updated>
-  <id>http://pacific-escarpment-7101.herokuapp.com//</id>
+  <title><![CDATA[Category: development | Machiko Yasuda]]></title>
+  <link href="http://machikoyasuda.herokuapp.com//blog/categories/development/atom.xml" rel="self"/>
+  <link href="http://machikoyasuda.herokuapp.com//"/>
+  <updated>2013-10-04T00:49:40-07:00</updated>
+  <id>http://machikoyasuda.herokuapp.com//</id>
   <author>
     <name><![CDATA[Machiko Yasuda]]></name>
     
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[day two - enter Firebase]]></title>
-    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/27/day-two-enter-firebase/"/>
+    <title type="html"><![CDATA[day two: enter Firebase]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/08/27/day-two-enter-firebase/"/>
     <updated>2013-08-27T21:41:00-07:00</updated>
-    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/27/day-two-enter-firebase</id>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/08/27/day-two-enter-firebase</id>
     <content type="html"><![CDATA[<h2>Today:</h2>
 
 <ul>
@@ -58,9 +58,9 @@
   
   <entry>
     <title type="html"><![CDATA[day one - configuring]]></title>
-    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/26/day-one-configuring/"/>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/08/26/day-one-configuring/"/>
     <updated>2013-08-26T11:16:00-07:00</updated>
-    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/26/day-one-configuring</id>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/08/26/day-one-configuring</id>
     <content type="html"><![CDATA[<h2>Today:</h2>
 
 <ul>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: life | From the desk of Machiko Yasuda]]></title>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/life/atom.xml" rel="self"/>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-  <updated>2013-10-02T13:12:14-07:00</updated>
-  <id>http://pacific-escarpment-7101.herokuapp.com//</id>
+  <title><![CDATA[Category: life | Machiko Yasuda]]></title>
+  <link href="http://machikoyasuda.herokuapp.com//blog/categories/life/atom.xml" rel="self"/>
+  <link href="http://machikoyasuda.herokuapp.com//"/>
+  <updated>2013-10-04T00:49:40-07:00</updated>
+  <id>http://machikoyasuda.herokuapp.com//</id>
   <author>
     <name><![CDATA[Machiko Yasuda]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[new habit]]></title>
-    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/17/new-habit/"/>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/08/17/new-habit/"/>
     <updated>2013-08-17T20:33:00-07:00</updated>
-    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/08/17/new-habit</id>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/08/17/new-habit</id>
     <content type="html"><![CDATA[<p><code>
 git commit -m "Add a new blog post on commits."
 </code></p>

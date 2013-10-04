@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: quote | From the desk of Machiko Yasuda]]></title>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/quote/atom.xml" rel="self"/>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-  <updated>2013-10-02T13:12:14-07:00</updated>
-  <id>http://pacific-escarpment-7101.herokuapp.com//</id>
+  <title><![CDATA[Category: quote | Machiko Yasuda]]></title>
+  <link href="http://machikoyasuda.herokuapp.com//blog/categories/quote/atom.xml" rel="self"/>
+  <link href="http://machikoyasuda.herokuapp.com//"/>
+  <updated>2013-10-04T00:49:40-07:00</updated>
+  <id>http://machikoyasuda.herokuapp.com//</id>
   <author>
     <name><![CDATA[Machiko Yasuda]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Overheard, the greatest hits]]></title>
-    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/07/25/greatest-hits-in-quotes/"/>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/07/25/greatest-hits-in-quotes/"/>
     <updated>2013-07-25T23:03:00-07:00</updated>
-    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/07/25/greatest-hits-in-quotes</id>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/07/25/greatest-hits-in-quotes</id>
     <content type="html"><![CDATA[<p>A collection of quotes I&rsquo;ve heard lately and I have now have been playing in my mind, on endless repeat:</p>
 
 <blockquote><p>&ldquo;Be resilient to failure. It&rsquo;s like wearing a bulletproof vest.&rdquo;

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "day three - all sorts of things"
+title: "day three: all sorts of things"
 date: 2013-08-28 17:47
 comments: true
 categories: angular, development, javascript
@@ -13,8 +13,8 @@ categories: angular, development, javascript
 - finally: always runs - usually an alert. optional.
 - throw: define different variations of the catch "e", like NaN, out of range exceptions.
 - Did a little [Mustache.js](https://github.com/machikoyasuda/mustache-js-test). See the code there.
-- I think I will get to implement some Mustache.js in my Datamap project. I will insert things like Census report name or table name into the JSON, and use it later on the front-end. 
-- On my project, I added some new stylings, but no new JavaScript functions. The data now persists to database. 
+- I think I will get to implement some Mustache.js in my Datamap project. I will insert things like Census report name or table name into the JSON, and use it later on the front-end.
+- On my project, I added some new stylings, but no new JavaScript functions. The data now persists to database.
 
 ## Roadblocks:
 - Should users be able to edit item names? If so, what's the best mobile UI for that? A button or something else?

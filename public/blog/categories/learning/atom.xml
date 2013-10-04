@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: learning, | From the desk of Machiko Yasuda]]></title>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/learning/atom.xml" rel="self"/>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-  <updated>2013-10-02T13:12:14-07:00</updated>
-  <id>http://pacific-escarpment-7101.herokuapp.com//</id>
+  <title><![CDATA[Category: learning, | Machiko Yasuda]]></title>
+  <link href="http://machikoyasuda.herokuapp.com//blog/categories/learning/atom.xml" rel="self"/>
+  <link href="http://machikoyasuda.herokuapp.com//"/>
+  <updated>2013-10-04T00:49:40-07:00</updated>
+  <id>http://machikoyasuda.herokuapp.com//</id>
   <author>
     <name><![CDATA[Machiko Yasuda]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[are computers bicycles for the mind? or cars?]]></title>
-    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/23/rough-draft-idea/"/>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/06/23/rough-draft-idea/"/>
     <updated>2013-06-23T15:28:00-07:00</updated>
-    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/06/23/rough-draft-idea</id>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/06/23/rough-draft-idea</id>
     <content type="html"><![CDATA[<p>In this technology-driven world, how do we humans interact with the machines around us? In my mind, there are at least two categories: (1) letting the machine control you, (2) you controlling the machine.</p>
 
 <p>One of the biggest differences in my mind about my car vs. my bicycle, is that it&rsquo;s not so easy to change parts around in my car. Sure, I can look under the hood, check the oil levels and if I tried really hard, perhaps I could change a few easy parts: a wind-shield wiper or something. It would be a lot harder to swap out the seats, carpet or any machinery inside.</p>

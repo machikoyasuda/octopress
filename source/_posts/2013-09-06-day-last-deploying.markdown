@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day last - Deploying"
+title: "day six: deploying"
 date: 2013-09-06 10:27
 comments: true
 categories: angular firebase github deploying

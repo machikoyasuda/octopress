@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: memories | From the desk of Machiko Yasuda]]></title>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/memories/atom.xml" rel="self"/>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-  <updated>2013-10-02T13:12:14-07:00</updated>
-  <id>http://pacific-escarpment-7101.herokuapp.com//</id>
+  <title><![CDATA[Category: memories | Machiko Yasuda]]></title>
+  <link href="http://machikoyasuda.herokuapp.com//blog/categories/memories/atom.xml" rel="self"/>
+  <link href="http://machikoyasuda.herokuapp.com//"/>
+  <updated>2013-10-04T00:49:40-07:00</updated>
+  <id>http://machikoyasuda.herokuapp.com//</id>
   <author>
     <name><![CDATA[Machiko Yasuda]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Random access memories: On learning]]></title>
-    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/07/25/random-access-memories-on-learning/"/>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/07/25/random-access-memories-on-learning/"/>
     <updated>2013-07-25T22:47:00-07:00</updated>
-    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/07/25/random-access-memories-on-learning</id>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/07/25/random-access-memories-on-learning</id>
     <content type="html"><![CDATA[<h2>How my mom learned how to make California rolls, or, reason #321 why my mom is rad</h2>
 
 <p>My mom grew up in a seaside merchant town on the southern island of Japan. She grew up learning how to eat a whole fish with chopsticks, carefully picking out the spine out of the fish. She can slice a raw squid without getting the ink all over herself. Of course, she rolls sushi.</p>

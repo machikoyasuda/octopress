@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "day two - enter Firebase"
+title: "day two: enter Firebase"
 date: 2013-08-27 21:41
 comments: true
 categories: development

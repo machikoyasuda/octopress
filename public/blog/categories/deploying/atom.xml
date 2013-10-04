@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: deploying | From the desk of Machiko Yasuda]]></title>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//blog/categories/deploying/atom.xml" rel="self"/>
-  <link href="http://pacific-escarpment-7101.herokuapp.com//"/>
-  <updated>2013-10-02T13:12:14-07:00</updated>
-  <id>http://pacific-escarpment-7101.herokuapp.com//</id>
+  <title><![CDATA[Category: deploying | Machiko Yasuda]]></title>
+  <link href="http://machikoyasuda.herokuapp.com//blog/categories/deploying/atom.xml" rel="self"/>
+  <link href="http://machikoyasuda.herokuapp.com//"/>
+  <updated>2013-10-04T00:49:40-07:00</updated>
+  <id>http://machikoyasuda.herokuapp.com//</id>
   <author>
     <name><![CDATA[Machiko Yasuda]]></name>
     
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Day last - Deploying]]></title>
-    <link href="http://pacific-escarpment-7101.herokuapp.com//blog/2013/09/06/day-last-deploying/"/>
+    <title type="html"><![CDATA[day six: deploying]]></title>
+    <link href="http://machikoyasuda.herokuapp.com//blog/2013/09/06/day-last-deploying/"/>
     <updated>2013-09-06T10:27:00-07:00</updated>
-    <id>http://pacific-escarpment-7101.herokuapp.com//blog/2013/09/06/day-last-deploying</id>
+    <id>http://machikoyasuda.herokuapp.com//blog/2013/09/06/day-last-deploying</id>
     <content type="html"><![CDATA[<h2>How to deploy an AngularFire &ndash; Yeoman project to GitHub</h2>
 
 <ol>

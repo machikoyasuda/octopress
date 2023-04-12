@@ -1,3 +1,5 @@
+[![Deploy Octopress site to Pages](https://github.com/machikoyasuda/octopress/actions/workflows/octopress.yml/badge.svg)](https://github.com/machikoyasuda/octopress/actions/workflows/octopress.yml)
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
